@@ -108,7 +108,7 @@ class Trainer:
             if config.max_iters is not None and self.iter_num >= config.max_iters:
                 break
             
-    def run_rl(self, rl_reward):
+    def run_rl(self, func_rl_fine_tune):
         model, config = self.model, self.config
 
         # setup the optimizer
@@ -143,6 +143,8 @@ class Trainer:
             print("batch_y", y)
             print("batch", self.batch)
 
+            # apply RL to get reward
+            rl_reward = func_rl_fine_tune(self.batch)
             # forward the model
             logits, self.loss = model(x, y)
 
