@@ -1,0 +1,312 @@
+
+question: Điều gì được quy định ở phạm vi điều chỉnh của luật hôn nhân và gia đình
+answer: Luật này quy định về chế độ hôn nhân và gia đình, chuẩn mực pháp lý cho cách ứng xử giữa các thành viên gia đình, và trách nhiệm của cá nhân, tổ chức, Nhà nước và xã hội trong việc xây dựng, củng cố chế độ hôn nhân và gia đình.
+
+question: Luật Hôn nhân và gia đình quy định gì?
+answer: Luật này quy định chế độ hôn nhân và gia đình; chuẩn mực pháp lý cho cách ứng xử giữa các thành viên gia đình; trách nhiệm của cá nhân, tổ chức, Nhà nước và xã hội trong việc xây dựng, củng cố chế độ hôn nhân và gia đình.
+
+question: Phạm vi điều chỉnh của luật hôn nhân và gia đình là gì
+answer: Luật này quy định chế độ hôn nhân và gia đình; chuẩn mực pháp lý cho cách ứng xử giữa các thành viên gia đình; trách nhiệm của cá nhân, tổ chức, Nhà nước và xã hội trong việc xây dựng, củng cố chế độ hôn nhân và gia đình.
+
+question: Nguyên tắc cơ bản nào về hôn nhân và gia đình được quy định?
+answer: Nguyên tắc cơ bản bao gồm hôn nhân tự nguyện, một vợ một chồng, vợ chồng bình đẳng, tôn trọng giữa các dân tộc, tôn giáo, tín ngưỡng khác nhau, và bảo vệ quyền của công dân Việt Nam và người nước ngoài.
+
+question: Nước ta quy định gì về chế độ hôn nhân
+answer: Nước ta quy định về hôn nhân như sau hôn nhân tự nguyện, tiến bộ, một vợ một chồng, vợ chồng bình đẳng
+
+question: Quy định về hôn nhân như thế nào?
+answer: Hôn nhân tự nguyện, tiến bộ, một vợ một chồng, vợ chồng bình đẳng
+
+question: Những yếu tố nào cấu thành chế độ hôn nhân và gia đình?
+answer: Các yếu tố bao gồm hôn nhân tự nguyện, tiến bộ, một vợ một chồng, vợ chồng bình đẳng, và trách nhiệm của cá nhân, tổ chức, Nhà nước, và xã hội trong việc xây dựng, củng cố chế độ hôn nhân và gia đình.
+
+question: Hôn nhân giữa người có tín ngưỡng và người không có tín ngưỡng được quyền lợi gì?
+answer: Được tôn trọng và được pháp luật bảo vệ theo quy định của luật.
+
+question: Hôn nhân giữa người có tín ngưỡng và người không có tín ngưỡng có được không?
+answer: Được, Được tôn trọng và được pháp luật bảo vệ theo quy định của luật.
+
+question: Hôn nhân giữa công dân Việt Nam thuộc các dân tộc, tôn giáo có quyền lợi gì
+answer: Được tôn trọng và được pháp luật bảo vệ theo quy định của luật.
+
+question: Hôn nhân giữa công dân Việt Nam với người nước ngoài như thế nào
+answer: Được tôn trọng và được pháp luật bảo vệ theo quy định của luật.
+
+question: Nguyên tắc cơ bản về gia đình?
+answer: Là xây dựng gia đình ấm no, tiến bộ, hạnh phúc; các thành viên gia đình có nghĩa vụ tôn trọng, quan tâm, chăm sóc, giúp đỡ nhau; không phân biệt đối xử giữa các con.
+
+question: Xây dựng gia đình dựa trên nguyên tắc gì
+answer: Xây dựng gia đình theo nguyên tắc ấm no, tiến bộ, hạnh phúc, các thành viên gia đình có nghĩa vụ tôn trọng, quan tâm, chăm sóc, giúp đỡ nhau, không phân biệt đối xử giữa các con
+
+question: Gia đình và xã hội có trách nhiệm gì đối với trẻ em, người cao tuổi, và người khuyết tật?
+answer: Gia đình và xã hội có trách nhiệm bảo vệ, hỗ trợ trẻ em, người cao tuổi, người khuyết tật thực hiện các quyền về hôn nhân và gia đình; giúp đỡ các bà mẹ thực hiện tốt chức năng cao quý của người mẹ; thực hiện kế hoạch hóa gia đình.
+
+question: Nhà nước hỗ trợ gì về quyền hôn nhân và gia đình với người dân có hoàn cảnh khó khăn?
+answer: Nhà nước và xã hội có trách nhiệm bảo vệ, hỗ trợ trẻ em, người cao tuổi, người khuyết tật thực hiện các quyền về hôn nhân và gia đình; giúp đỡ các bà mẹ thực hiện tốt chức năng cao quý của người mẹ; thực hiện kế hoạch hóa gia đình.
+
+question: Những gì cần được kế thừa và phát huy trong chế độ hôn nhân và gia đình?
+answer: Kế thừa và phát huy truyền thống văn hóa, đạo đức tốt đẹp của dân tộc Việt Nam về hôn nhân và gia đình.
+
+question: Các yếu tố nào cần được kế thừa trong hôn nhân và gia đình?
+answer: Cần kế thừa, phát huy truyền thống văn hóa, đạo đức tốt đẹp của dân tộc Việt Nam về hôn nhân và gia đình
+
+question: Hôn nhân được định nghĩa như thế nào?
+answer: Hôn nhân là quan hệ giữa vợ và chồng sau khi kết hôn.
+
+question: Định nghĩa của hôn nhân?
+answer: Hôn nhân là quan hệ giữa vợ và chồng sau khi kết hôn.
+
+question: Sau khi kết hôn mối quan hệ giữa vợ và chồng được gọi là gì?
+answer: Sau khi kết hôn quan hệ giữa vợ và chồng là hôn nhân
+
+question: Gia đình là gì và được xác định như thế nào?
+answer: Gia đình là tập hợp những người gắn bó với nhau do hôn nhân, quan hệ huyết thống hoặc quan hệ nuôi dưỡng, làm phát sinh các quyền và nghĩa vụ giữa họ với nhau.
+
+question: Gia đình là gì?
+answer: Gia đình là tập hợp những người gắn bó với nhau do hôn nhân, quan hệ huyết thống hoặc quan hệ nuôi dưỡng, làm phát sinh các quyền và nghĩa vụ giữa họ với nhau.
+
+question: Định nghĩa của gia đình là gì?
+answer: Gia đình là tập hợp những người gắn bó với nhau do hôn nhân, quan hệ huyết thống hoặc quan hệ nuôi dưỡng, làm phát sinh các quyền và nghĩa vụ giữa họ với nhau.
+
+question: Hiểu như thế nào là gia đình và mối quan hệ như thế nào?
+answer: Tập hợp những người gắn bó với nhau do hôn nhân, quan hệ huyết thống hoặc quan hệ nuôi dưỡng, làm phát sinh quyền và nghĩa vụ giữa họ với nhau.
+
+question: Chế độ hôn nhân và gia đình bao gồm những gì?
+answer: Chế độ hôn nhân và gia đình bao gồm toàn bộ quy định của pháp luật về kết hôn, ly hôn; quyền và nghĩa vụ giữa vợ và chồng, giữa cha mẹ và con, giữa các thành viên khác trong gia đình; cấp dưỡng; xác định cha, mẹ, con; quan hệ hôn nhân và gia đình có yếu tố nước ngoài và những vấn đề khác liên quan.
+
+question: Chế độ hôn nhân và gia đình là gì?
+answer: Chế độ hôn nhân và gia đình bao gồm toàn bộ quy định của pháp luật về kết hôn, ly hôn; quyền và nghĩa vụ giữa vợ và chồng, giữa cha mẹ và con, giữa các thành viên khác trong gia đình; cấp dưỡng; xác định cha, mẹ, con; quan hệ hôn nhân và gia đình có yếu tố nước ngoài và những vấn đề khác liên quan.
+
+question: Xác định cha, mẹ, con nằm trong đâu?
+answer: Xác định cha,mẹ, con nằm trong quy định chế độ hôn nhân và gia đình
+
+question: Tập quán về hôn nhân và gia đình được mô tả như thế nào?
+answer: Tập quán về hôn nhân và gia đình là quy tắc xử sự có nội dung rõ ràng về quyền, nghĩa vụ của các bên trong quan hệ hôn nhân và gia đình, được lặp đi, lặp lại trong một thời gian dài và được thừa nhận rộng rãi trong một vùng, miền hoặc cộng đồng.
+
+question: Tập quán về hôn nhân và gia đình là gì?
+answer: Tập quán về hôn nhân và gia đình là quy tắc xử sự có nội dung rõ ràng về quyền, nghĩa vụ của các bên trong quan hệ hôn nhân và gia đình, được lặp đi, lặp lại trong một thời gian dài và được thừa nhận rộng rãi trong một vùng, miền hoặc cộng đồng.
+
+question: Kết hôn được định nghĩa như thế nào?
+answer: Kết hôn là việc nam và nữ xác lập quan hệ vợ chồng với nhau theo quy định về điều kiện kết hôn và đăng ký kết hôn.
+
+question: Kết hôn là gì
+answer: Kết hôn là việc nam và nữ xác lập quan hệ vợ chồng với nhau theo quy định về điều kiện kết hôn và đăng ký kết hôn.
+
+question: Định nghĩa của kết hôn là gì?
+answer: Kết hôn là việc nam và nữ xác lập quan hệ vợ chồng với nhau theo quy định về điều kiện kết hôn và đăng ký kết hôn.
+
+question: Kết hôn trái pháp luật là gì?
+answer: Kết hôn trái pháp luật là việc nam, nữ đã đăng ký kết hôn tại cơ quan nhà nước có thẩm quyền nhưng một bên hoặc cả hai bên vi phạm điều kiện kết hôn theo quy định tại Điều 8.
+
+question: Khi nào tính là kết hôn trái pháp luật?
+answer: Kết hôn trái pháp luật là việc nam, nữ đã đăng ký kết hôn tại cơ quan nhà nước có thẩm quyền nhưng một bên hoặc cả hai bên vi phạm điều kiện kết hôn theo quy định tại Điều 8.
+
+question: Kết hôn trái pháp luật có thể xảy ra khi nào?
+answer: Kết hôn trái pháp luật xảy ra khi nam, nữ đã đăng ký kết hôn tại cơ quan nhà nước nhưng vi phạm điều kiện kết hôn theo quy định tại Điều 8.
+
+question: Chung sống như vợ chồng là gì?
+answer: Chung sống như vợ chồng là việc nam, nữ tổ chức cuộc sống chung và coi nhau là vợ chồng.
+
+question: Nam và nữ sống chung với nhau có được tính như vợ chồng không?
+answer: Theo quy định chung sống như vợ chồng là việc nam, nữ tổ chức cuộc sống chung và coi nhau là vợ chồng.
+
+question: Tảo hôn là gì?
+answer: Tảo hôn là việc lấy vợ, lấy chồng khi một bên hoặc cả hai bên chưa đủ tuổi kết hôn theo quy định tại điểm a khoản 1 Điều 8.
+
+question: Kết hôn chưa đủ tuổi theo quy định thì gọi là gì?
+answer: Được gọi là tảo hôn vì lấy vợ hoặc chồng khi một hoặc cả hai đều chưa đủ tuổi kết hôn.
+
+question: Cưỡng ép kết hôn, ly hôn là gì?
+answer: Cưỡng ép kết hôn, ly hôn là việc đe dọa, uy hiếp tinh thần, hành hạ, ngược đãi, yêu sách của cải hoặc hành vi khác để buộc người khác phải kết hôn hoặc ly hôn trái với ý muốn của họ.
+
+question: Khi nào được tính là cưỡng ép kết hôn?
+answer: Cưỡng ép kết hôn, ly hôn là việc đe dọa, uy hiếp tinh thần, hành hạ, ngược đãi, yêu sách của cải hoặc hành vi khác để buộc người khác phải kết hôn hoặc ly hôn trái với ý muốn của họ.
+
+question: Đe dọa vợ hoặc chồng ly hôn gọi là gì?
+answer: Được gọi là cưỡng ép ly hôn khi đe dọa uy hiếp tinh thần, hành hạ, ngược đãi, hành vi khác để buộc người khác phải ly hôn trái với ý muốn của họ.
+
+question: Cản trở kết hôn, ly hôn là gì?
+answer: Cản trở kết hôn, ly hôn là việc đe dọa, uy hiếp tinh thần, hành hạ, ngược đãi, yêu sách của cải hoặc hành vi khác để ngăn cản việc kết hôn của người có đủ điều kiện kết hôn theo quy định hoặc buộc người khác phải duy trì quan hệ hôn nhân trái với ý muốn của họ.
+
+question: Cản trở ly hôn là gì?
+answer: Cản trở ly hôn là việc đe dọa, uy hiếp tinh thần, hành hạ, ngược đãi, yêu sách của cải hoặc hành vi khác để ngăn cản việc kết hôn của người có đủ điều kiện kết hôn theo quy định hoặc buộc người khác phải duy trì quan hệ hôn nhân trái với ý muốn của họ.
+
+question: Cản trở kết hôn là gì?
+answer: Cản trở kết hôn là việc đe dọa, uy hiếp tinh thần, hành hạ, ngược đãi, yêu sách của cải hoặc hành vi khác để ngăn cản việc kết hôn của người có đủ điều kiện kết hôn theo quy định hoặc buộc người khác phải duy trì quan hệ hôn nhân trái với ý muốn của họ.
+
+question: Kết hôn giả tạo là gì?
+answer: Kết hôn giả tạo là việc lợi dụng kết hôn để xuất cảnh, nhập cảnh, cư trú, nhập quốc tịch Việt Nam, quốc tịch nước ngoài; hưởng chế độ ưu đãi của Nhà nước hoặc để đạt được mục đích khác mà không nhằm mục đích xây dựng gia đình.
+
+question: Yêu sách của cải trong kết hôn là gì?
+answer: Yêu sách của cải trong kết hôn là việc đòi hỏi về vật chất một cách quá đáng và coi đó là điều kiện để kết hôn nhằm cản trở việc kết hôn tự nguyện của nam, nữ.
+
+question: Thời kỳ hôn nhân là thời gian tính từ khi nào đến khi nào?
+answer: Thời kỳ hôn nhân là khoảng thời gian tồn tại quan hệ vợ chồng, được tính từ ngày đăng ký kết hôn đến ngày chấm dứt hôn nhân.
+
+question: Hôn nhân được tính từ khi nào?
+answer: Thời kỳ hôn nhân là khoảng thời gian tồn tại quan hệ vợ chồng, được tính từ ngày đăng ký kết hôn đến ngày chấm dứt hôn nhân.
+
+question: Thời kỳ hôn nhân là gì?
+answer: Thời kỳ hôn nhân là khoảng thời gian tồn tại quan hệ vợ chồng, được tính từ ngày đăng ký kết hôn đến ngày chấm dứt hôn nhân.
+
+question: Ly hôn là gì?
+answer: Ly hôn là việc chấm dứt quan hệ vợ chồng theo bản án, quyết định có hiệu lực pháp luật của Tòa án.
+
+question: Ly hôn giả tạo là gì?
+answer: y hôn giả tạo là việc lợi dụng ly hôn để trốn tránh nghĩa vụ tài sản, vi phạm chính sách, pháp luật về dân số hoặc để đạt được mục đích khác mà không nhằm mục đích chấm dứt hôn nhân.
+
+question: Ly hôn giả là gì?
+answer: y hôn giả tạo là việc lợi dụng ly hôn để trốn tránh nghĩa vụ tài sản, vi phạm chính sách, pháp luật về dân số hoặc để đạt được mục đích khác mà không nhằm mục đích chấm dứt hôn nhân.
+
+question: Thành viên gia đình bao gồm những ai?
+answer: Thành viên gia đình bao gồm vợ, chồng; cha mẹ đẻ, cha mẹ nuôi, cha dượng, mẹ kế, cha mẹ vợ, cha mẹ chồng; con đẻ, con nuôi, con riêng của vợ hoặc chồng, con dâu, con rể; anh, chị, em cùng cha mẹ, anh, chị, em cùng cha khác mẹ, anh, chị, em cùng mẹ khác cha, anh rể, em rể, chị dâu, em dâu của người cùng cha mẹ hoặc cùng cha khác mẹ, cùng mẹ khác cha; ông bà nội, ông bà ngoại; cháu nội, cháu ngoại; cô, dì, chú, cậu, bác ruột và cháu ruột.
+
+question: Thành viên gia đình gồm ai?
+answer: Thành viên gia đình bao gồm vợ, chồng; cha mẹ đẻ, cha mẹ nuôi, cha dượng, mẹ kế, cha mẹ vợ, cha mẹ chồng; con đẻ, con nuôi, con riêng của vợ hoặc chồng, con dâu, con rể; anh, chị, em cùng cha mẹ, anh, chị, em cùng cha khác mẹ, anh, chị, em cùng mẹ khác cha, anh rể, em rể, chị dâu, em dâu của người cùng cha mẹ hoặc cùng cha khác mẹ, cùng mẹ khác cha; ông bà nội, ông bà ngoại; cháu nội, cháu ngoại; cô, dì, chú, cậu, bác ruột và cháu ruột.
+
+question: Những người cùng dòng máu về trực hệ là những ai?
+answer: Những người cùng dòng máu về trực hệ là những người có quan hệ huyết thống, trong đó, người này sinh ra người kia kế tiếp nhau.
+
+question: Những người cùng dòng máu về trực hệ bao gồm ai?
+answer: Những người cùng dòng máu về trực hệ là những người có quan hệ huyết thống, trong đó, người này sinh ra người kia kế tiếp nhau.
+
+question: Những người có họ trong phạm vi ba đời là ai?
+answer: Những người có họ trong phạm vi ba đời là những người cùng một gốc sinh ra gồm cha mẹ là đời thứ nhất; anh, chị, em cùng cha mẹ, cùng cha khác mẹ, cùng mẹ khác cha là đời thứ hai; anh, chị, em con chú, con bác, con cô, con cậu, con dì là đời thứ ba.
+
+question: Những người có họ trong phạm vi ba đời là ai?
+answer: Những người có họ trong phạm vi ba đời là những người cùng một gốc sinh ra gồm cha mẹ là đời thứ nhất; anh, chị, em cùng cha mẹ, cùng cha khác mẹ, cùng mẹ khác cha là đời thứ hai; anh, chị, em con chú, con bác, con cô, con cậu, con dì là đời thứ ba.
+
+question: Người thân thích là ai?
+answer: Người thân thích là người có quan hệ hôn nhân, nuôi dưỡng, người có cùng dòng máu về trực hệ và người có họ trong phạm vi ba đời.
+
+question: Ai được tính là người thân thích?
+answer: Những người được tính là người thân thích là người có quan hệ hôn nhân, nuôi dưỡng, người có cùng dòng máu về quan hệ và người có họ trong phạm vi ba đời
+
+question: Nhu cầu thiết yếu là gì?
+answer: Nhu cầu thiết yếu là nhu cầu sinh hoạt thông thường về ăn, mặc, ở, học tập, khám bệnh, chữa bệnh và nhu cầu sinh hoạt thông thường khác không thể thiếu cho cuộc sống của mỗi người, mỗi gia đình.
+
+question: Như thế nào được tính là nhu cầu thiết yếu?
+answer: Nhu cầu thiết yếu được quy định như sau nhu cầu sinh hoạt thông thường về ăn, mặc,ở, học tập, khám bệnh chữa bệnh và nhu cầu sinh hoạt thông thường khác không thể thiếu cho cuộc sống của mỗi người, mỗi gia đình
+
+question: Kỹ thuật nào được sử dụng trong việc sinh con bằng kỹ thuật hỗ trợ sinh sản?
+answer: Trong việc sinh con bằng kỹ thuật hỗ trợ sinh sản, sử dụng thụ tinh nhân tạo hoặc thụ tinh trong ống nghiệm.
+
+question: Sinh con bằng kỹ thuật hỗ trợ sinh sản là gì?
+answer: Sinh con bằng kỹ thuật hỗ trợ sinh sản là sinh con bằng kỹ thuật thụ tinh nhân tạo hoặc thụ tinh trong ống nghiệm
+
+question: Sinh con bằng thụ tinh nhân tạo còn có tên gọi khác là gì?
+answer: Sinh con bằng kỹ thuật hỗ trợ sinh sản là sinh con bằng kỹ thuật thụ tinh nhân tạo hoặc thụ tinh trong ống nghiệm
+
+question: Mục đích của việc mang thai hộ vì mục đích nhân đạo là gì?
+answer: Mục đích của việc mang thai hộ vì mục đích nhân đạo là giúp mang thai cho cặp vợ chồng mà người vợ không thể mang thai và sinh con ngay cả khi áp dụng kỹ thuật hỗ trợ sinh sản.
+
+question: Mang thai hộ là gì?
+answer: Mang thai hộ vì mục đích nhân tạo là việc một người phụ nữ tự nguyện không vì mục đích thương mại giúp mang thai cho vợ chồng mà người vợ không thể mang thai và sinh con khi áp dụng phương pháp sinh con bằng kỹ thuật.
+
+question: Mang thai hộ được làm như thế nào?
+answer: Mang thai hộ được thực hiện bằng cách lấy noãn của người vợ và tinh trùng của người chồng để thụ tinh trong ống nghiệm sau đó cấy vào tử cung của người phụ nữ tự nguyện mang thai để người này mang thai và sinh con
+
+question: Việc mang thai hộ vì mục đích thương mại là gì?
+answer: Việc mang thai hộ vì mục đích thương mại là việc một người phụ nữ mang thai cho người khác với mục đích nhận lợi ích về mặt kinh tế hoặc lợi ích khác.
+
+question: Mang thai hộ để đổi lấy lợi ích được gọi là gì?
+answer: Việc mang thai hộ vì lợi ích hoặc kinh tế được gọi là mang thai hộ vì mục đích thương mại
+
+question: Định nghĩa cấp dưỡng theo quy định của Luật này là gì?
+answer: Cấp dưỡng là việc một người có nghĩa vụ đóng góp tiền hoặc tài sản khác để đáp ứng nhu cầu thiết yếu của người không sống chung với mình mà có quan hệ hôn nhân, huyết thống hoặc nuôi dưỡng theo quy định của Luật này.
+
+question: Cấp dưỡng là gì?
+answer: Cấp dưỡng là việc một người có nghĩa vụ đóng góp tiền hoặc tài sản khác để đáp ứng nhu cầu thiết yếu của người không sống chung với mình mà có quan hệ hôn nhân, huyết thống hoặc nuôi dưỡng theo quy định của Luật này.
+
+question: Cấp dưỡng định nghĩa như thế nào?
+answer: Cấp dưỡng là một người có nghĩa vụ đóng góp tiền hoặc tài sản khác để đáp ứng nhu cầu thiết yếu của người không sống chung với mình quan hệ hôn nhân, huyết thống hoặc nuôi dưỡng trong trường hợp người đó là người chưa thành niên.
+
+question: Quan hệ hôn nhân và gia đình có yếu tố nước ngoài là gì?
+answer: Quan hệ hôn nhân và gia đình có yếu tố nước ngoài là quan hệ hôn nhân và gia đình mà ít nhất một bên tham gia là người nước ngoài, người Việt Nam định cư ở nước ngoài; quan hệ hôn nhân và gia đình giữa các bên tham gia là công dân Việt Nam nhưng căn cứ để xác lập, thay đổi, chấm dứt quan hệ đó theo pháp luật nước ngoài, phát sinh tại nước ngoài hoặc tài sản liên quan đến quan hệ đó ở nước ngoài.
+
+question: Quan hệ hôn nhân và gia đình có yếu tố nước ngoài là gì?
+answer: Là quan hệ hôn nhân và gia đình có ít nhất một bên là người nước ngoài, người Việt Nam định cư ở nước ngoài.
+
+question: Thời kỳ hôn nhân được tính từ khi nào đến khi nào?
+answer: Thời kỳ hôn nhân được tính từ ngày đăng ký kết hôn đến ngày chấm dứt hôn nhân.
+
+question: Có bao nhiêu người được xem là thành viên gia đình?
+answer: hành viên gia đình bao gồm vợ, chồng; cha mẹ đẻ, cha mẹ nuôi, cha dượng, mẹ kế, cha mẹ vợ, cha mẹ chồng; con đẻ, con nuôi, con riêng của vợ hoặc chồng, con dâu, con rể; anh, chị, em cùng cha mẹ, anh, chị, em cùng cha khác mẹ, anh, chị, em cùng mẹ khác cha, anh rể, em rể, chị dâu, em dâu của người cùng cha mẹ hoặc cùng cha khác mẹ, cùng mẹ khác cha; ông bà nội, ông bà ngoại; cháu nội, cháu ngoại; cô, dì, chú, cậu, bác ruột và cháu ruột.
+
+question: Điều kiện nào làm việc kết hôn trái pháp luật?
+answer: Kết hôn trái pháp luật là khi một hoặc cả hai bên vi phạm điều kiện kết hôn theo quy định tại Điều 8 của Luật này khi đã đăng ký kết hôn tại cơ quan nhà nước có thẩm quyền.
+
+question: Theo pháp luật, Nhà nước có những biện pháp nào để bảo hộ hôn nhân và gia đình ở Việt Nam?
+answer: Nhà nước có chính sách, biện pháp bảo hộ hôn nhân và gia đình, tạo điều kiện để nam, nữ xác lập hôn nhân tự nguyện, tiến bộ, một vợ một chồng, vợ chồng bình đẳng; xây dựng gia đình ấm no, tiến bộ, hạnh phúc và thực hiện đầy đủ chức năng của mình; tăng cường tuyên truyền, phổ biến, giáo dục pháp luật về hôn nhân và gia đình; vận động nhân dân xóa bỏ phong tục, tập quán lạc hậu về hôn nhân và gia đình, phát huy truyền thống, phong tục, tập quán tốt đẹp thể hiện bản sắc của mỗi dân tộc.
+
+question: Trách nhiệm của nhà nước về chính sách đối với hôn nhân và gia đình như thế nào?
+answer: Nhà nước có chính sách, biện pháp bảo hộ hôn nhân và gia đình, tạo điều kiện để nam, nữ xác lập hôn nhân tự nguyện, tiến bộ, một vợ một chồng, vợ chồng bình đẳng; xây dựng gia đình ấm no, tiến bộ, hạnh phúc và thực hiện đầy đủ chức năng của mình; tăng cường tuyên truyền, phổ biến, giáo dục pháp luật về hôn nhân và gia đình; vận động nhân dân xóa bỏ phong tục, tập quán lạc hậu về hôn nhân và gia đình, phát huy truyền thống, phong tục, tập quán tốt đẹp thể hiện bản sắc của mỗi dân tộc.
+
+question: Nhà nước cần làm gì để bảo hộ hôn nhân và gia đình?
+answer: Nhà nước có chính sách, biện pháp bảo hộ hôn nhân và gia đình, tạo điều kiện để nam, nữ xác lập hôn nhân tự nguyện, tiến bộ, một vợ một chồng, vợ chồng bình đẳng; xây dựng gia đình ấm no, tiến bộ, hạnh phúc và thực hiện đầy đủ chức năng của mình; tăng cường tuyên truyền, phổ biến, giáo dục pháp luật về hôn nhân và gia đình; vận động nhân dân xóa bỏ phong tục, tập quán lạc hậu về hôn nhân và gia đình, phát huy truyền thống, phong tục, tập quán tốt đẹp thể hiện bản sắc của mỗi dân tộc.
+
+question: Làm thế nào Chính phủ thống nhất quản lý nhà nước về hôn nhân và gia đình, và ai chịu trách nhiệm thực hiện theo sự phân công của Chính phủ?
+answer: Chính phủ thống nhất quản lý nhà nước về hôn nhân và gia đình. Các bộ, cơ quan ngang bộ thực hiện quản lý nhà nước về hôn nhân và gia đình theo sự phân công của Chính phủ. Ủy ban nhân dân các cấp và các cơ quan khác thực hiện quản lý nhà nước về hôn nhân và gia đình theo quy định của pháp luật.
+
+question: Chính phủ làm gì để quản lý nhà nước về hôn nhân và gia đình?
+answer: Chính phủ thống nhất quản lý nhà nước về hôn nhân và gia đình. Các bộ, cơ quan ngang bộ thực hiện quản lý nhà nước về hôn nhân và gia đình theo sự phân công của Chính phủ. Ủy ban nhân dân các cấp và các cơ quan khác thực hiện quản lý nhà nước về hôn nhân và gia đình theo quy định của pháp luật.
+
+question: Chính phủ quản lý nhà nước về hôn nhân như thế nào?
+answer: Chính phủ thống nhất quản lý nhà nước về hôn nhân và gia đình. Các bộ, cơ quan ngang bộ thực hiện quản lý nhà nước về hôn nhân và gia đình theo sự phân công của Chính phủ. Ủy ban nhân dân các cấp và các cơ quan khác thực hiện quản lý nhà nước về hôn nhân và gia đình theo quy định của pháp luật.
+
+question: Cơ quan, tổ chức nào có trách nhiệm giáo dục và vận động nhân dân xây dựng gia đình văn hóa theo quy định của pháp luật?
+answer: Cơ quan, tổ chức có trách nhiệm giáo dục, vận động cán bộ, công chức, viên chức, người lao động, các thành viên của mình và mọi công dân xây dựng gia đình văn hóa; kịp thời hòa giải mâu thuẫn trong gia đình, bảo vệ quyền, lợi ích hợp pháp của các thành viên gia đình.
+
+question: Cơ quan và tổ chức có trách nhiệm gì với hôn nhân của các cá nhân, công dân?
+answer: Cơ quan, tổ chức có trách nhiệm giáo dục, vận động cán bộ, công chức, viên chức, người lao động, các thành viên của mình và mọi công dân xây dựng gia đình văn hóa; kịp thời hòa giải mâu thuẫn trong gia đình, bảo vệ quyền, lợi ích hợp pháp của các thành viên gia đình.
+
+question: Trách nhiệm của cơ quản, tổ chức với hôn nhân và gia đình của công dân?
+answer: Cơ quan, tổ chức có trách nhiệm giáo dục, vận động cán bộ, công chức, viên chức, người lao động, các thành viên của mình và mọi công dân xây dựng gia đình văn hóa; kịp thời hòa giải mâu thuẫn trong gia đình, bảo vệ quyền, lợi ích hợp pháp của các thành viên gia đình.
+
+question: Nhà trường cần phối hợp với gia đình như thế nào trong việc giáo dục và tuyên truyền về pháp luật hôn nhân và gia đình cho thế hệ trẻ?
+answer: Nhà trường phối hợp với gia đình trong việc giáo dục, tuyên truyền, phổ biến pháp luật về hôn nhân và gia đình cho thế hệ trẻ.
+
+question: Biện pháp nào được đề xuất để vận động nhân dân xóa bỏ phong tục, tập quán lạc hậu về hôn nhân và gia đình theo hướng phát huy truyền thống tốt đẹp của mỗi dân tộc?
+answer: Đề xuất biện pháp vận động nhân dân xóa bỏ phong tục, tập quán lạc hậu về hôn nhân và gia đình bằng cách phát huy truyền thống, phong tục, tập quán tốt đẹp thể hiện bản sắc của mỗi dân tộc.
+
+question: Theo Luật, quan hệ hôn nhân và gia đình được thực hiện như thế nào?
+answer: Quan hệ hôn nhân và gia đình được xác lập và thực hiện theo quy định của Luật này, được tôn trọng và được pháp luật bảo vệ.
+
+question: Quan hệ hôn nhân và gia đình được có được bảo vệ không?
+answer: Có, quan hệ hôn nhân và gia đình được xác lập, thực hiện theo quy định được tôn trọng và được pháp luật bảo vệ
+
+question: Luật cấm những hành vi nào liên quan đến hôn nhân?
+answer: Luật cấm các hành vi như kết hôn giả tạo, tảo hôn, cưỡng ép kết hôn, lừa dối kết hôn, cản trở kết hôn.
+
+question: Các hành vi nào bị cấm trong hôn nhân và gia đình?
+answer: Luật cấm các hành vi như kết hôn giả tạo, tảo hôn, cưỡng ép kết hôn, lừa dối kết hôn, cản trở kết hôn
+
+question: Nước ta cấm các hành vi nào trong hôn nhân và gia đình
+answer: Luật cấm các hành vi như kết hôn giả tạo, tảo hôn, cưỡng ép kết hôn, lừa dối kết hôn, cản trở kết hôn.
+
+question: Quy định nào về việc xử lý hành vi vi phạm pháp luật về hôn nhân và gia đình?
+answer: Mọi hành vi vi phạm pháp luật về hôn nhân và gia đình phải được xử lý nghiêm minh, đúng pháp luật. Cơ quan, tổ chức, cá nhân có quyền yêu cầu Tòa án, cơ quan khác có thẩm quyền áp dụng biện pháp kịp thời ngăn chặn và xử lý người có hành vi vi phạm pháp luật về hôn nhân và gia đình.
+
+question: Vi phạm pháp luật về hôn nhân và gia đình sẽ được xử lý như thế nào?
+answer: Mọi hành vi vi phạm pháp luật về hôn nhân và gia đình phải được xử lý nghiêm minh, đúng pháp luật. Cơ quan, tổ chức, cá nhân có quyền yêu cầu Tòa án, cơ quan khác có thẩm quyền áp dụng biện pháp kịp thời ngăn chặn và xử lý người có hành vi vi phạm pháp luật về hôn nhân và gia đình.
+
+question: Quy định nào về bảo vệ danh dự, nhân phẩm, và quyền riêng tư trong quá trình giải quyết vụ việc về hôn nhân và gia đình?
+answer: Danh dự, nhân phẩm, uy tín, bí mật đời tư và các quyền riêng tư khác của các bên được tôn trọng, bảo vệ trong quá trình giải quyết vụ việc về hôn nhân và gia đình.
+
+question: Danh dự và nhân phẩm của các bên trong quá trình giải quyết vụ hôn nhân và gia đình như thế nào?
+answer: Danh dự, nhân phẩm, uy tín, bí mật đời tư và các quyền riêng tư khác của các bên được tôn trọng, bảo vệ trong quá trình giải quyết.
+
+question: Luật cấm những hành vi nào liên quan đến việc sử dụng quyền về hôn nhân và gia đình để mục đích phi đạo đức?
+answer: Lợi dụng việc thực hiện quyền về hôn nhân và gia đình để mua bán người, bóc lột sức lao động, xâm phạm tình dục hoặc có hành vi khác nhằm mục đích trục lợi là hành vi bị cấm theo Luật.
+
+question: Làm thế nào để xử lý hành vi vi phạm pháp luật về hôn nhân và gia đình theo Luật?
+answer: Mọi hành vi vi phạm pháp luật về hôn nhân và gia đình phải được xử lý nghiêm minh, đúng pháp luật. Cơ quan, tổ chức, cá nhân có quyền yêu cầu Tòa án, cơ quan khác có thẩm quyền áp dụng biện pháp kịp thời ngăn chặn và xử lý người có hành vi vi phạm pháp luật về hôn nhân và gia đình.
+
+question: Quy định nào áp dụng đối với quan hệ hôn nhân và gia đình khi Luật này không quy định?
+answer: Các quy định của Bộ luật dân sự và các luật khác có liên quan đến quan hệ hôn nhân và gia đình sẽ được áp dụng trong trường hợp Luật này không quy định (theo Điều 6).
+
+question: Luật có quy định gì về việc áp dụng tập quán về hôn nhân và gia đình?
+answer: Trong trường hợp pháp luật không quy định và các bên không có thỏa thuận, tập quán tốt đẹp thể hiện bản sắc của mỗi dân tộc, không trái với nguyên tắc quy định tại Điều 2 và không vi phạm điều cấm của Luật này sẽ được áp dụng (theo Điều 7).
+
+question: Điều 7 nói gì về việc áp dụng tập quán về hôn nhân và gia đình?
+answer: Theo Điều 7, trong trường hợp pháp luật không quy định và các bên không có thỏa thuận, tập quán tốt đẹp thể hiện bản sắc của mỗi dân tộc, không trái với nguyên tắc quy định tại Điều 2 và không vi phạm điều cấm của Luật này sẽ được áp dụng.
