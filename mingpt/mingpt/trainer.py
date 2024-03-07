@@ -117,7 +117,7 @@ class Trainer:
         # setup the dataloader
         train_loader = DataLoader(
             self.train_dataset,
-            sampler=torch.utils.data.RandomSampler(self.train_dataset, replacement=True, num_samples=int(1e10)),
+            # sampler=torch.utils.data.RandomSampler(self.train_dataset, replacement=True, num_samples=int(1e10)),
             shuffle=False,
             pin_memory=True,
             batch_size=config.batch_size,
@@ -141,12 +141,12 @@ class Trainer:
             x, y = self.batch
             print("batch_x", x)
             print("batch_y", y)
-            print("batch", self.batch)
 
-            # apply RL to get reward
-            rl_reward = func_rl_fine_tune(self.batch)
             # forward the model
             logits, self.loss = model(x, y)
+            
+            # apply RL to get reward
+            rl_reward = func_rl_fine_tune(self.batch)
 
             # backprop and update the parameters
             model.zero_grad(set_to_none=True)
