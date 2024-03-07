@@ -139,8 +139,6 @@ class Trainer:
                 self.batch = next(data_iter)
             self.batch = [t.to(self.device) for t in self.batch]
             x, y = self.batch
-            print("batch_x", x)
-            print("batch_y", y)
 
             # forward the model
             logits, self.loss = model(x, y)
