@@ -129,6 +129,7 @@ class Trainer:
         self.iter_time = time.time()
         data_iter = iter(train_loader)
         self.batch = data_iter
+        self.reward = 0
         while True:
 
             # fetch the next batch (x, y) and re-init iterator if needed
@@ -145,6 +146,7 @@ class Trainer:
             
             # apply RL to get reward
             rl_reward = func_rl_fine_tune(self.batch)
+            self.reward = rl_reward
 
             # backprop and update the parameters
             model.zero_grad(set_to_none=True)
