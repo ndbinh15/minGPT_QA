@@ -200,7 +200,7 @@ class Trainer:
 
             for i in range(len(self.batch[0])):
                 # Compute reward using fine-tuning function
-                self.loss, self.total_reward = func_rl_fine_tune(self.batch[i], model=self.model)
+                self.loss, self.total_reward = func_rl_fine_tune(x[i], y[i], model=self.model)
 
                 # Backward pass
                 self.optimizer.zero_grad()
