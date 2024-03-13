@@ -146,11 +146,10 @@ class Trainer:
             
             # apply RL to get reward
             rl_reward = func_rl_fine_tune(self.batch)
-            self.reward = rl_reward
+            self.loss = self.loss * rl_reward
 
             # backprop and update the parameters
             model.zero_grad(set_to_none=True)
-            self.loss = self.loss * rl_reward
             self.loss.backward()
             torch.nn.utils.clip_grad_norm_(model.parameters(), config.grad_norm_clip)
             self.optimizer.step()
