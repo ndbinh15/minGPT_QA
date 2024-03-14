@@ -195,14 +195,8 @@ class Trainer:
                 data_iter = iter(train_loader)
                 self.batch = next(data_iter)
             self.batch = [t.to(self.device) for t in self.batch]
-            x, y = self.batch
-
-            # forward the model
-            logits, loss = model(x, y)
             
-            reward = func_rl_fine_tune(self.batch, logits=logits, model=self.model)
-            
-            self.loss = loss * reward
+            self.loss = func_rl_fine_tune(self.batch, model=self.model)
             
             # Backward pass
             self.optimizer.zero_grad()
