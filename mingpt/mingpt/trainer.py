@@ -186,7 +186,6 @@ class Trainer:
         self.iter_time = time.time()
         data_iter = iter(train_loader)
         self.batch = data_iter
-        self.total_reward = 0
         while True:
 
             # fetch the next batch (x, y) and re-init iterator if needed
@@ -198,14 +197,17 @@ class Trainer:
             self.batch = [t.to(self.device) for t in self.batch]
             x, y = self.batch
 
-            for i in range(len(self.batch[0])):
-                # Compute reward using fine-tuning function
-                self.loss, self.total_reward = func_rl_fine_tune(batch_x=x[i], batch_y=y[i], total_reward=self.total_reward, model=self.model)
-
-                # Backward pass
-                self.optimizer.zero_grad()
-                self.loss.backward()
-                self.optimizer.step()
+            # forward the model
+            logits, loss = model(x, y)
+            
+            reward = func_rl_fine_tune(self.batch, logits=logits, model=self.model)
+            
+            self.loss = loss * reward
+            
+            # Backward pass
+            self.optimizer.zero_grad()
+            self.loss.backward()
+            self.optimizer.step()
 
             self.trigger_callbacks('on_batch_end')
             self.iter_num += 1
