@@ -174,7 +174,7 @@ class Trainer:
         # setup the dataloader
         train_loader = DataLoader(
             self.train_dataset,
-            sampler=torch.utils.data.RandomSampler(self.train_dataset, replacement=True, num_samples=int(1e10)),
+            # sampler=torch.utils.data.RandomSampler(self.train_dataset, replacement=True, num_samples=int(1e10)),
             shuffle=False,
             pin_memory=True,
             batch_size=config.batch_size,
@@ -199,8 +199,9 @@ class Trainer:
             self.loss = func_rl_fine_tune(self.batch, model=self.model)
             
             # Backward pass
-            self.optimizer.zero_grad()
+            self.optimizer.zero_grad(set_to_none=True)
             self.loss.backward()
+            
             self.optimizer.step()
 
             self.trigger_callbacks('on_batch_end')
