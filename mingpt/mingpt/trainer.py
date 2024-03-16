@@ -213,3 +213,55 @@ class Trainer:
             # termination conditions
             if config.max_iters is not None and self.iter_num >= config.max_iters:
                 break
+            
+    def run_rl_with_gradient(self, func_rl_fine_tune):
+        model, config = self.model, self.config
+
+        # setup the optimizer
+        self.optimizer = model.configure_optimizers(config)
+
+        # setup the dataloader
+        train_loader = DataLoader(
+            self.train_dataset,
+            # sampler=torch.utils.data.RandomSampler(self.train_dataset, replacement=True, num_samples=int(1e10)),
+            shuffle=False,
+            pin_memory=True,
+            batch_size=config.batch_size,
+            num_workers=config.num_workers,
+        )
+
+        model.train()
+        self.iter_num = 0
+        self.iter_time = time.time()
+        data_iter = iter(train_loader)
+        self.batch = data_iter
+        while True:
+
+            # fetch the next batch (x, y) and re-init iterator if needed
+            try:
+                self.batch = next(data_iter)
+            except StopIteration:
+                data_iter = iter(train_loader)
+                self.batch = next(data_iter)
+            self.batch = [t.to(self.device) for t in self.batch]
+            
+            policy_gradients = func_rl_fine_tune(self.batch, model=self.model)
+            
+            # Update model parameters
+            avg_policy_gradients = [torch.mean(torch.stack(grads), dim=0) for grads in zip(*policy_gradients)]
+                
+            # Perform optimizer update
+            self.optimizer.zero_grad()
+            for param, gradient in zip(self.model.parameters(), avg_policy_gradients):
+                param.grad = gradient
+            self.optimizer.step()
+
+            self.trigger_callbacks('on_batch_end')
+            self.iter_num += 1
+            tnow = time.time()
+            self.iter_dt = tnow - self.iter_time
+            self.iter_time = tnow
+
+            # termination conditions
+            if config.max_iters is not None and self.iter_num >= config.max_iters:
+                break
