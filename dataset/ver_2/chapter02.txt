@@ -211,7 +211,7 @@ question: Độ tuổi của nữ để có thể đăng ký kết hôn?
 tag: 2_8_1
 answer: Nữ cần đủ 18 tuổi trở lên để kết hôn. 
 
-question Công dân bao nhiêu tuổi mới có thể đăng ký kết hôn?
+question: Công dân bao nhiêu tuổi mới có thể đăng ký kết hôn?
 tag: 2_8_1
 answer: Theo quy định, nam từ đủ 20 tuổi trở lên, nữ từ đủ 18 tuổi trở lên mới đươc kết hôn 
 
