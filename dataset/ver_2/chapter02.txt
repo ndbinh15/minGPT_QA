@@ -17,6 +17,7 @@ answer: Việc kết hôn do nam và nữ tự nguyện quyết định.
 
 question: Trong hôn nhân, việc kết hôn do bên nào quyết định?
 tag: 2_8_1
+answer: Việc kết hôn do nam và nữ tự nguyện quyết định.
 
 question: Điều kiện nào làm cho việc kết hôn trở thành hôn nhân giả tạo?
 tag: 2_8_1
@@ -201,3 +202,151 @@ answer: Nếu không có thỏa thuận giải quyết, việc giải quyết qu
 question: Quyền, lợi ích hợp pháp của ai phải được đảm bảo khi giải quyết quan hệ tài sản của nam, nữ chung sống như vợ chồng?
 tag: 2_16_2
 answer: Quyền, lợi ích hợp pháp của phụ nữ và con phải được đảm bảo khi giải quyết quan hệ tài sản của nam, nữ chung sống như vợ chồng.
+
+question: Theo quy định nam bao nhiêu tuổi để kết hôn?
+tag: 2_8_1
+answer: Nam cần đủ 20 tuổi trở lên để kết hôn.
+
+question: Độ tuổi của nữ để có thể đăng ký kết hôn?
+tag: 2_8_1
+answer: Nữ cần đủ 18 tuổi trở lên để kết hôn. 
+
+question Công dân bao nhiêu tuổi mới có thể đăng ký kết hôn?
+tag: 2_8_1
+answer: Theo quy định, nam từ đủ 20 tuổi trở lên, nữ từ đủ 18 tuổi trở lên mới đươc kết hôn 
+
+question: Kết hôn giữa nam và nữ do ai quyết định?
+tag: 2_8_1
+answer: Việc kết hôn do nam và nữ tự nguyện quyết định.
+
+question: Theo quy định nữ cần bao nhiêu tuổi để đăng ký kết hôn?
+tag: 2_8_1
+answer: Nữ cần đủ 18 tuổi trở lên để kết hôn.
+
+question: Độ tuổi của nam để đăng ký kết hôn là bao nhiêu?
+tag: 2_8_1
+answer: Nam cần đủ 20 tuổi trở lên để kết hôn.
+
+question: Nam có quyền quyết định kết hôn cho nữ không?
+tag: 2_8_1
+answer: Không. Việc kết hôn do nam và nữ tự nguyện quyết định.
+
+question: Có trường hợp nào cấm đăng ký kết hôn?
+tag: 2_8_1
+answer: Cấm kết hôn giữa người mất năng lực hành vi dân sự.
+
+question: Người cùng giới có thể kết hôn không?
+tag: 2_8_2
+answer: Không, Nhà nước không thừa nhận hôn nhân giữa những người cùng giới tính.
+
+question: Hai người cùng giới có thể kết hôn không?
+tag: 2_8_2
+answer: Không, Nhà nước không thừa nhận hôn nhân giữa những người cùng giới tính.
+
+question: Quy trình kết hôn thực hiện như thế nào?
+tag: 2_9_1
+answer: Việc kết hôn phải được đăng ký và do cơ quan nhà nước có thẩm quyền thực hiện theo quy định và pháp luật về hộ tịch. 
+
+question: Kết hôn cần thực hiện như thế nào?
+tag: 2_9_1
+answer: Việc kết hôn phải được đăng ký và do cơ quan nhà nước có thẩm quyền thực hiện theo quy định và pháp luật về hộ tịch.
+
+question: Hai vợ chồng kết hôn nhưng không đăng ký kết hôn có được không?
+tag: 2_9_1
+answer: Nếu việc kết hôn không được đăng ký theo quy định, thì nó không có giá trị pháp lý.
+
+question: Khi kết hôn không đăng ký thì như thế nào?
+tag: 2_9_1
+answer: Nếu việc kết hôn không được đăng ký theo quy định, thì nó không có giá trị pháp lý.
+
+question: Hai vợ chồng đã ly hôn và kết hôn lại thì phải làm gì?
+tag: 2_9_2
+answer: Vợ chồng đã ly hôn muốn xác lập lại quan hệ vợ chồng phải đăng ký kết hôn.
+
+question:Trường hợp vợ chồng đã ly hôn và muốn kết hôn thì cần làm gì?
+tag: 2_9_2
+answer: Vợ chồng đã ly hôn muốn xác lập lại quan hệ vợ chồng phải đăng ký kết hôn.
+
+question: Đăng ký kết hôn ở đâu?
+tag: 2_9_1
+answer: Cơ quan nhà nước có thẩm quyền là cơ quan thực hiện đăng ký việc kết hôn theo quy định và pháp luật về hộ tịch.
+
+question: Cơ quan nào thực hiện đăng ký hôn cho công dân?
+tag: 2_9_1
+answer: Cơ quan nhà nước có thẩm quyền là cơ quan thực hiện đăng ký việc kết hôn theo quy định và pháp luật về hộ tịch.
+
+question:Tại sao đăng ký kết hôn liên quan đến quy định của luật về hộ tịch?
+tag: 2_9_1
+answer: Luật về hộ tịch quy định về việc đăng ký kết hôn và có liên quan đến quy trình thực hiện theo quy định.
+
+question: Vì sao khi đăng ký kết hôn cần xem xét quy định của luật về hộ tịch?
+tag: 2_9_1
+answer: Luật về hộ tịch quy định về việc đăng ký kết hôn và có liên quan đến quy trình thực hiện theo quy định của Luật này.
+
+question: Công dân có thể yêu cầu hủy kết hôn khi phát hiện bị lừa dối kết hôn không?
+tag: 2_10_1
+answer: Có. Người bị cưỡng ép kết hôn hoặc bị lừa dối kết hôn, theo quy định của pháp luật về tố tụng dân sự, có quyền tự mình yêu cầu hoặc đề nghị cá nhân, tổ chức quy định tại khoản 2 Điều này yêu cầu Tòa án hủy việc kết hôn trái pháp luật do việc kết hôn vi phạm quy định.
+
+question: Bị cha mẹ ép kết hôn có thể hủy yêu cầu kết hôn được không?
+tag: 2_10_1
+answer: Được. Người bị cưỡng ép kết hôn hoặc bị lừa dối kết hôn, theo quy định của pháp luật về tố tụng dân sự, có quyền tự mình yêu cầu hoặc đề nghị cá nhân, tổ chức quy định tại khoản 2 Điều này yêu cầu Tòa án hủy việc kết hôn trái pháp luật do việc kết hôn vi phạm quy định.
+
+question: Hủy yêu cầu kết hôn cơ quan quản lý nhà nước về gia đình có liên quan gì không?
+tag: 2_10_2
+answer: Cơ quan quản lý nhà nước về gia đình có quyền theo quy định của pháp luật về tố tụng dân sự, yêu cầu Tòa án hủy việc kết hôn trái pháp luật do việc kết hôn vi phạm quy định.
+
+question: Có thể nhờ hội liên hiệp phụ nữ yêu cầu hủy kết hôn khi bị cưỡng ép kết hôn không?
+tag: 2_10_2
+answer: Được. Hội liên hiệp phụ nữ có quyền theo quy định của pháp luật về tố tụng dân sự, yêu cầu Tòa án hủy việc kết hôn trái pháp luật do việc kết hôn vi phạm quy định.
+
+question: Các cá nhân, cơ quan, tổ chức khi phát hiện kết hôn trái pháp luật?
+tag: 2_10_3
+answer: Cá nhân, cơ quan, tổ chức khác khi phát hiện việc kết hôn trái pháp luật có quyền đề nghị cơ quan, tổ chức theo quy định có thể yêu cầu Tòa án hủy việc kết hôn trái pháp luật.
+
+question: Khi thực hiện xử lý việc kết hôn trái pháp luật tòa án dựa theo đâu?
+tag: 2_11_1
+answer: Tòa án thực hiện xử lý việc kết hôn trái pháp luật theo quy định tại Luật này và pháp luật về tố tụng dân sự.
+
+question: Khi yêu cầu hủy kết hôn được giải quyết từ phía tòa án thì quan hệ hai bên sẽ như thế nào?
+tag: 2_11_2
+answer: Khi việc kết hôn trái pháp luật bị hủy, hai bên kết hôn phải chấm dứt quan hệ như vợ chồng theo quy định.
+
+question: Quyền và nghĩa vụ của cha,mẹ, con sau khi kết hôn bị hủy?
+tag: 2_12_2
+answer: Quyền, nghĩa vụ của cha, mẹ, con khi việc kết hôn bị hủy sẽ được giải quyết theo quy định về quyền, nghĩa vụ của cha, mẹ, con khi ly hôn.
+
+question:Cho biết quyền và nghĩa vụ giữa vợ chồng và con sau khi kết hôn bị hủy?
+tag: 2_12_2
+answer: Quyền, nghĩa vụ của cha, mẹ, con khi việc kết hôn bị hủy sẽ được giải quyết theo quy định về quyền, nghĩa vụ của cha, mẹ, con khi ly hôn. 
+
+question: Khi hủy kết hôn thì tài sản và các hợp đồng giữa vợ chồng và bên thứ ba sẽ như thế nào?
+tag: 2_12_3
+answer: Quan hệ tài sản, nghĩa vụ và hợp đồng giữa các bên khi việc kết hôn bị hủy sẽ được giải quyết theo quy định.
+
+question: Vợ chồng tôi có hợp đồng với bên thứ ba, sau khi hủy kết hôn thì sẽ như thế nào?
+tag: 2_12_3
+answer: Quan hệ tài sản, nghĩa vụ và hợp đồng giữa các bên khi việc kết hôn bị hủy sẽ được giải quyết theo quy định.
+
+question: Kết hôn ở tại cơ quan không có thẩm quyền thì như thế nào?
+tag: 2_13
+answer: Trong trường hợp việc đăng ký kết hôn không đúng thẩm quyền, cơ quan nhà nước có thẩm quyền sẽ thu hồi, hủy bỏ giấy chứng nhận kết hôn và yêu cầu hai bên thực hiện lại việc đăng ký kết hôn tại cơ quan nhà nước có thẩm quyền theo quy định của pháp luật về hộ tịch. 
+
+question: Cơ quan nhà nước có thẩm quyền sẽ đề xuất gì với người kết hôn không đúng thẩm quyền?
+tag: 2_13
+answer: Khi có yêu cầu, cơ quan nhà nước có thẩm quyền sẽ đề xuất hai bên thực hiện lại việc đăng ký kết hôn tại cơ quan nhà nước có thẩm quyền theo quy định của pháp luật về hộ tịch. 
+
+question: Nam và nữ sống chung với nhau như vợ chồng mà không đăng ký kết hôn có quyền và nghĩa vụ gì không?
+tag: 2_14_1
+answer: Không, nam, nữ chung sống với nhau như vợ chồng mà không đăng ký kết hôn theo quy định không làm phát sinh quyền, nghĩa vụ giữa vợ và chồng.
+
+question: Không đăng ký kết hôn mà sống chung như vợ chồng có phát sinh quyền và nghĩa vụ gì không?
+tag: 2_14_1
+answer: Không, nam, nữ chung sống với nhau như vợ chồng mà không đăng ký kết hôn theo quy định không làm phát sinh quyền, nghĩa vụ giữa vợ và chồng.
+
+question: Nam và nữ sống chung như vợ chồng đăng ký kết hôn thì được xác nhận là vợ chồng từ lúc nào?
+tag: 2_14_2
+answer: Quan hệ hôn nhân sẽ được xác lập từ thời điểm đăng ký kết hôn.
+
+question: Nam nữ sống chung như vợ chồng trên 5 năm có được nhà nước công nhận là vợ chồng không?
+tag: 2_14_2
+answer: Không, nam, nữ chung sống như vợ chồng mà không đăng ký kết hôn không được công nhận quan hệ hôn nhân theo quy định.

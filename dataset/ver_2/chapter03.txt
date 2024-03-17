@@ -343,7 +343,7 @@ question: Nghĩa vụ riêng về tài sản của mỗi người được thanh
 tag: 3_44_3
 answer: Nghĩa vụ riêng về tài sản của mỗi người được thanh toán từ tài sản riêng của người đó.
 
-question: Trong trường hợp tài sản riêng là nguồn sống duy nhất của gia đình, quyết định định đoạt tài sản này cần sự đồng ý của ai?
+question: Trong trường hợp tài sản riêng là nguồn sống duy nhất của gia đình, quyết định đoạt tài sản này cần sự đồng ý của ai?
 tag: 3_44_4
 answer: Trong trường hợp vợ, chồng có tài sản riêng mà hoa lợi, lợi tức từ tài sản riêng đó là nguồn sống duy nhất của gia đình thì việc định đoạt tài sản này phải có sự đồng ý của chồng, vợ.
 
@@ -710,3 +710,280 @@ answer: Tài sản riêng của vợ chồng gồm tài sản mà mỗi người
 question: Lợi nhuận từ tài sản riêng được tính như thế nào?
 tag: 3_43_2
 answer: Lợi nhuận từ tài sản riêng phát sinh trong thời kỳ hôn nhân được tính là tài sản riêng của vợ, chồng
+
+//////////new
+question: Theo quy định vợ chồng bình đẳng như thế nào?
+tag: 3_17
+answer: Vợ, chồng bình đẳng về mọi mặt trong gia đình, trong việc thực hiện các quyền, nghĩa vụ của công dân theo quy định trong Hiến pháp, Luật Hôn nhân và gia đình và các luật khác có liên quan.
+
+question: Vợ có quyền hơn chồng trong gia đình không?
+tag: 3_17
+answer: Vợ, chồng bình đẳng về mọi mặt trong gia đình, trong việc thực hiện các quyền, nghĩa vụ của công dân theo quy định trong Hiến pháp, Luật Hôn nhân và gia đình và các luật khác có liên quan.
+
+question: Vợ và chồng có nghĩa vụ gì với nhau?
+tag: 3_19_1
+answer: Vợ chồng có nghĩa vụ thương yêu, chung thủy, tôn trọng, quan tâm, chăm sóc, giúp đỡ nhau; cùng nhau chia sẻ, thực hiện các công việc trong gia đình.
+
+question: Cho biết nghĩa vụ của vợ chồng là gì?
+tag: 3_19_1
+answer: Vợ chồng có nghĩa vụ thương yêu, chung thủy, tôn trọng, quan tâm, chăm sóc, giúp đỡ nhau; cùng nhau chia sẻ, thực hiện các công việc trong gia đình.
+
+question: Vợ chồng không sống chung với nhau được không?
+tag: 3_19_2
+answer: Vợ chồng có nghĩa vụ sống chung với nhau trừ trường hợp có thỏa thuận khác hoặc do yêu cầu của nghề nghiệp, công tác, học tập, tham gia các hoạt động chính trị, kinh tế, văn hóa, xã hội và lý do chính đáng khác.
+
+question: Cha mẹ có quyền quyết định nơi ở của vợ chồng không?
+tag: 3_20
+answer: Không. Việc lựa chọn nơi cư trú của vợ chồng do vợ chồng thỏa thuận, không bị ràng buộc bởi phong tục, tập quán, địa giới hành chính.
+
+question: Phong tục địa phương có thể quyết định nơi ở của vợ chồng không?
+tag: 3_20
+answer: Không. Việc lựa chọn nơi cư trú của vợ chồng do vợ chồng thỏa thuận, không bị ràng buộc bởi phong tục, tập quán, địa giới hành chính.
+
+question: Vợ chồng có nghĩa vụ gì về danh dự, nhân phẩm, uy tín của nhau?
+tag: 3_21
+answer: Vợ, chồng có nghĩa vụ tôn trọng, giữ gìn và bảo vệ danh dự, nhân phẩm, uy tín cho nhau.
+
+question: Chồng phải có cần phải bảo vệ danh dự cho vợ không?
+tag: 3_21
+answer: Chồng có nghĩa vụ tôn trọng, giữ gìn và bảo vệ danh dự, nhân phẩm, uy tín cho vợ.
+
+question: Hai vợ chồng khác nhau tín ngưỡng có nghĩa vụ gì với đối phương?
+tag: 3_22
+answer: Vợ, chồng có nghĩa vụ tôn trọng quyền tự do tín ngưỡng, tôn giáo của nhau.
+
+question: Nghĩa vụ của vợ chồng khác nhau về tôn giáo là gì?
+tag: 3_22
+answer: Vợ, chồng có nghĩa vụ tôn trọng quyền tự do tín ngưỡng, tôn giáo của nhau.
+
+question: Khi khác nhau về tôn giáo giữa vợ và chồng thì cần lưu ý gì?
+tag: 3_22
+answer: Vợ, chồng có nghĩa vụ tôn trọng quyền tự do tín ngưỡng, tôn giáo của nhau.
+
+question: Vợ có quyền gì đối với nghề của chồng?
+tag: 3_23
+answer: Vợ, chồng có quyền, nghĩa vụ tạo điều kiện, giúp đỡ nhau chọn nghề nghiệp; học tập, nâng cao trình độ văn hóa, chuyên môn, nghiệp vụ; tham gia hoạt động chính trị, kinh tế, văn hóa, xã hội.
+
+question: Có thể ủy quyền cho vợ thực hiện các giao dịch không?
+tag: 3_24_2
+answer: Vợ, chồng có thể ủy quyền cho nhau xác lập, thực hiện và chấm dứt giao dịch mà theo quy định của Luật này, Bộ luật dân sự và các luật khác có liên quan phải có sự đồng ý của cả hai vợ chồng.
+
+question: Chồng có thể ủy quyền cho vợ không?
+tag: 3_24_2
+answer: Vợ, chồng có thể ủy quyền cho nhau xác lập, thực hiện và chấm dứt giao dịch mà theo quy định của Luật này, Bộ luật dân sự và các luật khác có liên quan phải có sự đồng ý của cả hai vợ chồng.
+
+question: Vợ có thể đại diện cho chồng khi chồng bị hôn mê không?
+tag: 3_24_3
+answer: Được. Vợ, chồng đại diện cho nhau khi một bên mất năng lực hành vi dân sự mà bên kia có đủ điều kiện làm người giám hộ hoặc khi một bên bị hạn chế năng lực hành vi dân sự mà bên kia được Tòa án chỉ định làm người đại diện theo pháp luật cho người đó, trừ trường hợp theo quy định của pháp luật thì người đó phải tự mình thực hiện quyền, nghĩa vụ có liên quan.
+
+question: Tòa án dựa vào quy định nào khi chồng hôn mê và vợ yêu cầu ly hôn?
+tag: 3_24_3
+answer: Trong trường hợp một bên vợ, chồng mất năng lực hành vi dân sự mà bên kia có yêu cầu Tòa án giải quyết ly hôn thì căn cứ vào quy định về giám hộ trong Bộ luật dân sự, Tòa án chỉ định người khác đại diện cho người bị mất năng lực hành vi dân sự để giải quyết việc ly hôn.
+
+question: Vợ chồng kinh doanh chung, ai là người đại diện hợp pháp ?
+tag: 3_25_1
+answer: Trong trường hợp vợ, chồng kinh doanh chung, vợ, chồng trực tiếp tham gia quan hệ kinh doanh là người đại diện hợp pháp của nhau trong quan hệ kinh doanh đó, trừ trường hợp trước khi tham gia quan hệ kinh doanh, vợ chồng có thỏa thuận khác hoặc Luật này và các luật liên quan có quy định khác.
+
+question: Ai là người đại diện khi vợ chồng kinh doanh chung?
+tag: 3_25_1
+answer: Trong trường hợp vợ, chồng kinh doanh chung, vợ, chồng trực tiếp tham gia quan hệ kinh doanh là người đại diện hợp pháp của nhau trong quan hệ kinh doanh đó, trừ trường hợp trước khi tham gia quan hệ kinh doanh, vợ chồng có thỏa thuận khác hoặc Luật này và các luật liên quan có quy định khác.
+
+question: Vợ chồng ai là người đại diện khi kinh doanh chung?
+tag: 3_25_1
+answer: Trong trường hợp vợ, chồng kinh doanh chung, vợ, chồng trực tiếp tham gia quan hệ kinh doanh là người đại diện hợp pháp của nhau trong quan hệ kinh doanh đó, trừ trường hợp trước khi tham gia quan hệ kinh doanh, vợ chồng có thỏa thuận khác hoặc Luật này và các luật liên quan có quy định khác.
+
+question: Cho biết nguyên tắc chung của chế độ tài sản của vợ chồng là gì?
+tag: 3_29_1
+answer: Nguyên tắc chung về chế độ tài sản của vợ chồng nêu rõ rằng vợ, chồng bình đẳng với nhau về quyền, nghĩa vụ trong việc tạo lập, chiếm hữu, sử dụng, định đoạt tài sản chung; không phân biệt giữa lao động trong gia đình và lao động có thu nhập.
+
+question: Cho biết quyền và nghĩa vụ tài sản của vợ là gì?
+tag: 3_29_2
+answer: Vợ, chồng có nghĩa vụ bảo đảm điều kiện để đáp ứng nhu cầu thiết yếu của gia đình.
+
+question: Tài sản của vợ chồng ảnh hưởng đến người khác thì như thế nào?
+tag: 3_29_3
+answer: Việc thực hiện quyền, nghĩa vụ về tài sản của vợ chồng mà xâm phạm đến quyền, lợi ích hợp pháp của vợ, chồng, gia đình và của người khác thì phải bồi thường.
+
+question: Nhu cầu thiết yếu của gia đình có liên quan gì đến vợ chồng không?
+tag: 3_30_1
+answer: Vợ, chồng có quyền, nghĩa vụ thực hiện giao dịch nhằm đáp ứng nhu cầu thiết yếu của gia đình.
+
+question: Vợ chồng không có tài sản chung để đáp ứng nhu cầu thiết yếu của gia đình thì làm sao?
+tag: 3_30_2
+answer: Trong trường hợp vợ chồng không có tài sản chung hoặc tài sản chung không đủ để đáp ứng nhu cầu thiết yếu của gia đình thì vợ, chồng có nghĩa vụ đóng góp tài sản riêng theo khả năng kinh tế của mỗi bên.
+
+question: Làm gì khi tài sản chung của vợ chồng không đáp ứng nhu cầu thiết yếu cảu gia đình?
+tag: 3_30_2
+answer: Trong trường hợp vợ chồng không có tài sản chung hoặc tài sản chung không đủ để đáp ứng nhu cầu thiết yếu của gia đình thì vợ, chồng có nghĩa vụ đóng góp tài sản riêng theo khả năng kinh tế của mỗi bên.
+
+question: Chồng cầm cố nhà có phải có sự đồng ý của vợ không?
+tag: 3_31
+answer: Việc xác lập, thực hiện, chấm dứt các giao dịch liên quan đến nhà là nơi ở duy nhất của vợ chồng phải có sự thỏa thuận của vợ chồng. Trong trường hợp nhà ở thuộc sở hữu riêng của vợ hoặc chồng thì chủ sở hữu có quyền xác lập, thực hiện, chấm dứt giao dịch liên quan đến tài sản đó nhưng phải bảo đảm chỗ ở cho vợ chồng.
+
+question: Tài sản chung của vợ chồng là những gì?
+tag: 3_33_1
+answer: Tài sản chung của vợ chồng gồm tài sản do vợ, chồng tạo ra, thu nhập do lao động, hoạt động sản xuất, kinh doanh, hoa lợi, lợi tức phát sinh từ tài sản riêng và thu nhập hợp pháp khác trong thời kỳ hôn nhân, trừ trường hợp được quy định tại khoản 1 Điều 40 của Luật này; tài sản mà vợ chồng được thừa kế chung hoặc được tặng cho chung và tài sản khác mà vợ chồng thỏa thuận là tài sản chung. Quyền sử dụng đất mà vợ, chồng có được sau khi kết hôn là tài sản chung của vợ chồng, trừ trường hợp vợ hoặc chồng được thừa kế riêng, được tặng cho riêng hoặc có được thông qua giao dịch bằng tài sản riêng.
+
+question: Cho biết tài sản chung của vợ chồng gồm những gì?
+tag: 3_33_1
+answer: Tài sản chung của vợ chồng gồm tài sản do vợ, chồng tạo ra, thu nhập do lao động, hoạt động sản xuất, kinh doanh, hoa lợi, lợi tức phát sinh từ tài sản riêng và thu nhập hợp pháp khác trong thời kỳ hôn nhân, trừ trường hợp được quy định tại khoản 1 Điều 40 của Luật này; tài sản mà vợ chồng được thừa kế chung hoặc được tặng cho chung và tài sản khác mà vợ chồng thỏa thuận là tài sản chung. Quyền sử dụng đất mà vợ, chồng có được sau khi kết hôn là tài sản chung của vợ chồng, trừ trường hợp vợ hoặc chồng được thừa kế riêng, được tặng cho riêng hoặc có được thông qua giao dịch bằng tài sản riêng.
+
+question: Quyền sở hữu tài sản chung của hai vợ chồng như thế nào?
+tag: 3_33_2
+answer: Tài sản chung của vợ chồng thuộc sở hữu chung hợp nhất, được dùng để bảo đảm nhu cầu của gia đình, thực hiện nghĩa vụ chung của vợ chồng.
+
+question: Cho biết quyền sở hữu tài sản chung giữa vợ và chồng thuộc về ai?
+tag: 3_33_2
+answer: Tài sản chung của vợ chồng thuộc sở hữu chung hợp nhất, được dùng để bảo đảm nhu cầu của gia đình, thực hiện nghĩa vụ chung của vợ chồng.
+
+question: Khi vợ chồng có tranh chấp tài sản thì được tính là tài sản nào?
+tag: 3_33_3
+answer: Trong trường hợp không có căn cứ để chứng minh tài sản mà vợ, chồng đang có tranh chấp là tài sản riêng của mỗi bên thì tài sản đó được coi là tài sản chung.
+
+question: Bất động sản là tài sản gì khi vợ chồng có tranh chấp?
+tag: 3_33_3
+answer: Trong trường hợp không có căn cứ để chứng minh tài sản mà vợ, chồng đang có tranh chấp là tài sản riêng của mỗi bên thì tài sản đó được coi là tài sản chung.
+
+question: Giấy chứng nhận sở hữu tài sản chung giữa vợ chồng thì ghi tên ai?
+tag: 3_34_1
+answer: Trong trường hợp tài sản thuộc sở hữu chung của vợ chồng mà pháp luật quy định phải đăng ký quyền sở hữu, quyền sử dụng thì giấy chứng nhận quyền sở hữu, giấy chứng nhận quyền sử dụng phải ghi tên cả hai vợ chồng, trừ trường hợp vợ chồng có thỏa thuận khác.
+
+question: Tài sản chung giữa vợ chồng cần làm giấy chứng nhận quyền sử dụng thì ghi tên ai?
+tag: 3_34_1
+answer: Trong trường hợp tài sản thuộc sở hữu chung của vợ chồng mà pháp luật quy định phải đăng ký quyền sở hữu, quyền sử dụng thì giấy chứng nhận quyền sở hữu, giấy chứng nhận quyền sử dụng phải ghi tên cả hai vợ chồng, trừ trường hợp vợ chồng có thỏa thuận khác.
+
+question: Việc định đoạt tài sản chung của vợ chồng do ai quyết định?
+tag: 3_35_1
+answer: Việc chiếm hữu, sử dụng, định đoạt tài sản chung do vợ chồng thỏa thuận.
+
+question: Thỏa thuận khi chồng đưa tài sản chung vào kinh doanh thì cần làm gì?
+tag: 3_36
+answer: Trong trường hợp vợ chồng có thỏa thuận về việc một bên đưa tài sản chung vào kinh doanh thì thỏa thuận này phải lập thành văn bản.
+
+question: Vợ chồng có nghĩa vụ gì khi giao dịch giấy tờ phát sinh vấn đề?
+tag: 3_37_1
+answer: Nghĩa vụ phát sinh từ giao dịch do vợ chồng cùng thỏa thuận xác lập là một trong các nghĩa vụ chung về tài sản. Vợ chồng cùng phải chịu trách nhiệm và nghĩa vụ bồi thường thiệt hại theo quy định của pháp luật.
+
+question: Vợ chồng có thể sử dụng tài sản riêng để duy trì tài sản chung?
+tag: 3_37_4
+answer: Nghĩa vụ phát sinh từ việc sử dụng tài sản riêng để duy trì, phát triển khối tài sản chung là một trong những nghĩa vụ chung về tài sản. Vợ chồng có nghĩa vụ sử dụng tài sản riêng của mình để duy trì và phát triển tài sản chung theo khả năng kinh tế của mỗi bên.
+
+question: Con làm hỏng xe của người khác thì cha mẹ có nghĩa vụ gì?
+tag: 3_37_5
+answer: Nghĩa vụ phát sinh từ việc bồi thường thiệt hại do con gây ra là một trong các nghĩa vụ chung về tài sản của vợ chồng. Theo quy định của Bộ luật dân sự, cha mẹ phải chịu trách nhiệm và bồi thường thiệt hại do con gây ra.
+
+question: Vợ chồng có quyền làm gì đến tài sản chung?
+tag: 3_38_1
+answer: Trong thời kỳ hôn nhân, vợ chồng có quyền thỏa thuận chia một phần hoặc toàn bộ tài sản chung. Nếu không thỏa thuận được, họ có quyền yêu cầu Tòa án giải quyết theo quy định của Luật.
+
+question: Thỏa thuận về chia tài sản chung của vợ chồng cần chuẩn bị gì?
+tag: 3_38_2
+answer: Thỏa thuận về việc chia tài sản chung phải được lập thành văn bản và được công chứng theo yêu cầu của vợ chồng hoặc theo quy định của pháp luật.
+
+question: Khi thỏa thuận về phân chia tài sản chung vợ chồng cần làm gì?
+tag: 3_38_2
+answer: Thỏa thuận về việc chia tài sản chung phải được lập thành văn bản và được công chứng theo yêu cầu của vợ chồng hoặc theo quy định của pháp luật.
+
+question: Vợ chồng không có thỏa thuận phân chia tài sản chung giải quyết như thế nào?
+tag: 3_38_3
+answer: Trong trường hợp không có thỏa thuận về chia tài sản chung, vợ chồng có quyền yêu cầu Tòa án giải quyết việc chia tài sản chung theo quy định.
+
+question: Thời gian hiệu lực của chia tài sản chung được tính từ khi nào?
+tag: 3_39_1
+answer: Thời điểm có hiệu lực của việc chia tài sản chung của vợ chồng là thời điểm do vợ chồng thỏa thuận và được ghi trong văn bản; nếu trong văn bản không xác định thời điểm có hiệu lực thì thời điểm có hiệu lực được tính từ ngày lập văn bản.
+
+question: Phân chia tài sản chung trong thời kỳ hôn nhân như thế nào ?
+tag: 3_40_1
+answer: Trong trường hợp chia tài sản chung của vợ chồng, phần tài sản được chia, hoa lợi, lợi tức phát sinh từ tài sản riêng của mỗi bên sau khi chia tài sản chung là tài sản riêng của vợ, chồng, trừ trường hợp vợ chồng có thỏa thuận khác. Phần tài sản còn lại không chia vẫn là tài sản chung của vợ chồng.
+
+question: Cho biết tài sản chung được chia như thế nào khi yêu cầu chia trong thời kỳ hôn nhân?
+tag: 3_40_1
+answer: Trong trường hợp chia tài sản chung của vợ chồng, phần tài sản được chia, hoa lợi, lợi tức phát sinh từ tài sản riêng của mỗi bên sau khi chia tài sản chung là tài sản riêng của vợ, chồng, trừ trường hợp vợ chồng có thỏa thuận khác. Phần tài sản còn lại không chia vẫn là tài sản chung của vợ chồng.
+
+question: Khi chia tài sản chung có ảnh hưởng gì đến bên thứ ba hay không?
+tag: 3_40_2
+answer: Việc chia tài sản chung của vợ chồng không làm thay đổi quyền, nghĩa vụ về tài sản giữa vợ, chồng với người thứ ba, trừ trường hợp các bên có thỏa thuận khác.
+
+question: Có thể yêu cầu hủy chia tài sản chung hay không?
+tag: 3_41_1
+answer: Sau khi chia tài sản chung trong thời kỳ hôn nhân, vợ chồng có quyền thỏa thuận chấm dứt hiệu lực của việc chia tài sản chung. Hình thức của thỏa thuận được thực hiện theo quy định tại khoản 2 Điều 38 của Luật này.
+
+question: Trước khi yêu cầu hủy chia tài sản chung có phát sinh quyền và nghĩa vụ tài sản thì có hiệu lực không?
+tag: 3_41_3
+answer: Quyền, nghĩa vụ về tài sản phát sinh trước thời điểm chấm dứt hiệu lực của việc chia tài sản chung vẫn có hiệu lực, trừ trường hợp các bên có thỏa thuận khác.
+
+question: Tài sản chung phát sinh quyền và nghĩa vụ tài sản với bên khác còn hiệu lực khi yêu cầu hủy chia tài sản chung hay không?
+tag: 3_41_3
+answer: Quyền, nghĩa vụ về tài sản phát sinh trước thời điểm chấm dứt hiệu lực của việc chia tài sản chung vẫn có hiệu lực, trừ trường hợp các bên có thỏa thuận khác.
+
+question: Việc chấm dứt hiệu lực của việc chia tài sản chung cần được ai công nhận?
+tag: 3_41_4
+answer: Trong trường hợp việc chia tài sản chung trong thời kỳ hôn nhân được thực hiện theo bản án, quyết định có hiệu lực của Tòa án thì thỏa thuận chấm dứt hiệu lực của việc chia tài sản chung phải được Tòa án công nhận.
+
+question: Khi ảnh hưởng đến lợi ích hợp pháp củaviệc chia tài sản chung bị vô hiệu?
+tag: 3_42_1
+answer: Việc chia tài sản chung trong thời kỳ hôn nhân bị vô hiệu khi thuộc một trong các trường hợp ảnh hưởng nghiêm trọng đến lợi ích của gia đình; quyền, lợi ích hợp pháp của con chưa thành niên, con đã thành niên mất năng lực hành vi dân sự hoặc không có khả năng lao động và không có tài sản để tự nuôi mình.
+
+question: Khi việc chia tài sản chung ảnh hưởng đến lợi ích của gia đình thì như thế nào?
+tag: 3_42_1
+answer: Việc chia tài sản chung trong thời kỳ hôn nhân bị vô hiệu khi thuộc một trong các trường hợp ảnh hưởng nghiêm trọng đến lợi ích của gia đình; quyền, lợi ích hợp pháp của con chưa thành niên, con đã thành niên mất năng lực hành vi dân sự hoặc không có khả năng lao động và không có tài sản để tự nuôi mình.
+
+question: Chia tài sản chung để trốn việc cấp dưỡng cho gia đình được không?
+tag: 3_42_2
+answer: Việc chia tài sản chung trong thời kỳ hôn nhân bị vô hiệu nếu có ý đồ trốn tránh thực hiện các nghĩa vụ nuôi dưỡng, cấp dưỡng; bồi thường thiệt hại; thanh toán khi bị Tòa án tuyên bố phá sản; trả nợ cho cá nhân, tổ chức; nộp thuế hoặc nghĩa vụ tài chính khác đối với Nhà nước; và nghĩa vụ khác về tài sản theo quy định của Luật này, Bộ luật dân sự và quy định khác của pháp luật có liên quan.
+
+question: Cần lưu ý gì để tránh bị vô hiệu việc chia tài sản chung?
+tag: 3_42_2
+answer: Không trốn tránh thực hiện các nghĩa vụ nuôi dưỡng, cấp dưỡng; bồi thường thiệt hại; thanh toán khi bị Tòa án tuyên bố phá sản; trả nợ cho cá nhân, tổ chức; nộp thuế hoặc nghĩa vụ tài chính khác đối với Nhà nước; và nghĩa vụ khác về tài sản theo quy định của Luật này, Bộ luật dân sự và quy định khác của pháp luật có liên quan.
+
+question: Tài sản riêng của vợ chồng gồm những tài sản gì?
+tag: 3_43_1
+answer: Tài sản riêng của vợ, chồng bao gồm tài sản mà mỗi người có trước khi kết hôn; tài sản được thừa kế riêng, được tặng cho riêng trong thời kỳ hôn nhân; tài sản được chia riêng cho vợ, chồng theo quy định; tài sản phục vụ nhu cầu thiết yếu của vợ, chồng và tài sản khác mà theo quy định của pháp luật thuộc sở hữu riêng của vợ, chồng.
+
+question: Tài sản riêng của vợ và chồng gồm những loại tài sản nào?
+tag: 3_43_1
+answer: Tài sản riêng của vợ, chồng bao gồm tài sản mà mỗi người có trước khi kết hôn; tài sản được thừa kế riêng, được tặng cho riêng trong thời kỳ hôn nhân; tài sản được chia riêng cho vợ, chồng theo quy định; tài sản phục vụ nhu cầu thiết yếu của vợ, chồng và tài sản khác mà theo quy định của pháp luật thuộc sở hữu riêng của vợ, chồng.
+
+question: Cho biết tài sản riêng của vợ và chồng gồm những tài sản nào?
+tag: 3_43_1
+answer: Tài sản riêng của vợ, chồng bao gồm tài sản mà mỗi người có trước khi kết hôn; tài sản được thừa kế riêng, được tặng cho riêng trong thời kỳ hôn nhân; tài sản được chia riêng cho vợ, chồng theo quy định; tài sản phục vụ nhu cầu thiết yếu của vợ, chồng và tài sản khác mà theo quy định của pháp luật thuộc sở hữu riêng của vợ, chồng.
+
+question: Lợi nhuận có được từ tài sản riêng của vợ thì được tính là tài sản chung không?
+tag: 3_43_2
+answer: Không. Tài sản hình thành từ tài sản riêng của vợ, chồng cũng là tài sản riêng của vợ, chồng. Hoa lợi, lợi tức phát sinh từ tài sản riêng trong thời kỳ hôn nhân được thực hiện theo quy định.
+
+question: Vợ hoặc chồng có quyền nhập tài sản của mình vào tài sản chung không?
+tag: 3_44_1
+answer: Vợ, chồng có quyền chiếm hữu, sử dụng, định đoạt tài sản riêng của mình; nhập hoặc không nhập tài sản riêng vào tài sản chung.
+
+question: Vợ và chồng có quyền gì với tài sản riêng của bản thân?
+tag: 3_44_1
+answer: Vợ, chồng có quyền chiếm hữu, sử dụng, định đoạt tài sản riêng của mình; nhập hoặc không nhập tài sản riêng vào tài sản chung.
+
+question: Cho biết quyền của vợ chồng đối với tài sản riêng của mình?
+tag: 3_44_1
+answer: Vợ, chồng có quyền chiếm hữu, sử dụng, định đoạt tài sản riêng của mình; nhập hoặc không nhập tài sản riêng vào tài sản chung.
+
+question: Khi vợ hoặc chồng không thể tự quản lý tài sản riêng thì người còn lại có thể làm gì?
+tag: 3_44_2
+answer: Trong trường hợp vợ hoặc chồng không thể tự mình quản lý tài sản riêng và cũng không ủy quyền cho người khác quản lý thì bên kia có quyền quản lý tài sản đó. Việc quản lý tài sản phải bảo đảm lợi ích của người có tài sản.
+
+question: Nếu vợ không thể tự quản lý tài sản riêng của mình thì chồng cần làm gì?
+tag: 3_44_2
+answer: Trong trường hợp vợ hoặc chồng không thể tự mình quản lý tài sản riêng và cũng không ủy quyền cho người khác quản lý thì bên kia có quyền quản lý tài sản đó. Việc quản lý tài sản phải bảo đảm lợi ích của người có tài sản.
+
+question: Nếu tài sản riêng là nguồn sống duy nhất của gia đình, khi định đoạt tài sản cần sự đồng ý của ai?
+tag: 3_44_4
+answer: Trong trường hợp vợ, chồng có tài sản riêng mà hoa lợi, lợi tức từ tài sản riêng đó là nguồn sống duy nhất của gia đình thì việc định đoạt tài sản này phải có sự đồng ý của chồng, vợ.
+
+question: Có thể nhập tài sản riêng vào tài sản chung không?
+tag: 3_44_4
+answer: Vợ, chồng có quyền nhập hoặc không nhập tài sản riêng vào tài sản chung.
+
+question: Nhập tài sản riêng vào tài sản chung thực hiện như thế nào?
+tag: 3_46_1
+answer: Việc nhập tài sản riêng của vợ, chồng vào tài sản chung được thực hiện theo thỏa thuận của vợ chồng.
+
+question: Điều kiện để nhập tài sản vào tài sản chung?
+tag: 3_46_2
+answer: Tài sản được nhập vào tài sản chung mà theo quy định của pháp luật, giao dịch liên quan đến tài sản đó phải tuân theo hình thức nhất định thì thỏa thuận phải bảo đảm hình thức đó.

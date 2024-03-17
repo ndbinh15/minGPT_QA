@@ -362,3 +362,255 @@ answer: Trong trường hợp hôn nhân được khôi phục thì quan hệ t�
 question: Khi giải quyết tài sản của vợ chồng khi ly hôn phải đảm bảo quyền và lợi ích gì?
 tag: 04_67_2
 answer: Khi ly hôn và giải quyết tài sản của vợ chồng cần phải đảm bảo quyền, lợi ích hợp pháp của vợ, con chưa thành niên, con đã thành niên mất năng lực hành vi dân sự hoặc không có khả năng lao động và không có tài sản để tự nuôi mình.
+
+question: Ai có thể yêu cầu ly hôn?
+tag: 04_51_1
+answer: Vợ, chồng, cha, mẹ, hoặc người thân thích khi một bên mắc bệnh tâm thần hoặc là nạn nhân của bạo lực gia đình.
+
+question: Người nào có quyền yêu cầu ly hôn?
+tag: 04_51_1
+answer: Vợ, chồng, cha, mẹ, hoặc người thân thích khi một bên mắc bệnh tâm thần hoặc là nạn nhân của bạo lực gia đình.
+
+question: Đối tượng nào có quyền yêu cầu ly hôn?
+tag: 04_51_1
+answer: Vợ, chồng, cha, mẹ, hoặc người thân thích khi một bên mắc bệnh tâm thần hoặc là nạn nhân của bạo lực gia đình.
+
+question: Nếu một người mắc bệnh về tâm thần thì ai có thể yêu cầu ly hôn?
+tag: 04_51_2
+answer: Người thân, cha, mẹ của bên mắc bệnh tâm thần hoặc bị bạo lực gia đình
+
+question: Con bị chồng bạo hành cha mẹ có thể yêu cầu ly hôn không?
+tag: 04_51_2
+answer: Có.Trong trường hợp một bên vợ hoặc chồng là nạn nhân của bạo lực gia đình
+
+question: Không thể yêu cầu ly hôn trong trường hợp nào?
+tag: 04_51_3
+answer: Chồng không có quyền yêu cầu ly hôn khi vợ đang mang thai, sinh con hoặc đang nuôi con dưới 12 tháng tuổi.
+
+question: Vợ đang mang thai có thể yêu cầu ly hôn không?
+tag: 04_51_3
+answer: Chồng không có quyền yêu cầu ly hôn khi vợ đang mang thai, sinh con hoặc đang nuôi con dưới 12 tháng tuổi.
+
+question: Các trường hợp nào chồng không thể ly hôn?
+tag: 04_51_3
+answer: Chồng không có quyền yêu cầu ly hôn khi vợ đang mang thai, sinh con hoặc đang nuôi con dưới 12 tháng tuổi.
+
+question: Khi có yêu cầu ly hôn thì nhà nước cần làm gì trước tiên?
+tag: 04_52
+answer: Nhà nước và xã hội khuyến khích việc hòa giải ở cơ sở khi vợ, chồng có yêu cầu ly hôn, thực hiện theo quy định của pháp luật về hòa giải ở cơ sở.
+
+question: Hòa giải khi có yêu cầu ly hồn diễn ra ở đâu?
+tag: 04_52
+answer: Nhà nước và xã hội khuyến khích việc hòa giải ở cơ sở khi vợ, chồng có yêu cầu ly hôn, thực hiện theo quy định của pháp luật về hòa giải ở cơ sở.
+
+question: Cơ quan chức năng nào có thể xử lý đơn yêu cầu ly hôn?
+tag: 04_53_1
+answer: Tòa án có thẩm quyền thụ lý đơn yêu cầu ly hôn theo quy định của pháp luật về tố tụng dân sự.
+
+question: Đơn yêu cầu ly hôn được thụ lý ở đâu?
+tag: 04_53_1
+answer: Tòa án có thẩm quyền thụ lý đơn yêu cầu ly hôn theo quy định của pháp luật về tố tụng dân sự.
+
+question: Không có đăng ký kết hôn mà có yêu cầu ly hôn giải quyết như thế nào?
+tag: 04_53_2
+answer: Trong trường hợp không đăng ký kết hôn mà có yêu cầu ly hôn, Tòa án thụ lý và tuyên bố không công nhận quan hệ vợ chồng theo quy định.
+
+question: Trường hợp nào sẽ tiến hành thực hiện hòa giải?
+tag: 04_54
+answer: Tòa án thực hiện hòa giải sau khi đã thụ lý đơn yêu cầu ly hôn, theo quy định của pháp luật về tố tụng dân sự.
+
+question: Vợ chồng đồng ý ly hôn có được công nhận thuận tình ly hôn không?
+tag: 04_55
+answer: Nếu xét thấy cả hai bên tự nguyện ly hôn và đã thỏa thuận về chia tài sản, trông nom, nuôi dưỡng, chăm sóc, giáo dục con sao cho bảo đảm quyền lợi chính đáng của vợ và con, Tòa án sẽ công nhận thuận tình ly hôn.
+
+question: Điều kiện để được công nhận thuận tình ly hôn là gì?
+tag: 04_55
+answer: Nếu xét thấy cả hai bên tự nguyện ly hôn và đã thỏa thuận về chia tài sản, trông nom, nuôi dưỡng, chăm sóc, giáo dục con sao cho bảo đảm quyền lợi chính đáng của vợ và con, Tòa án sẽ công nhận thuận tình ly hôn.
+
+question: Khi không đảm bảo quyền lợi chính đáng cho con khi ly hôn phải làm sao?
+tag: 04_55
+answer: Trong trường hợp không thỏa thuận được hoặc thỏa thuận nhưng không bảo đảm quyền lợi chính đáng của vợ và con, Tòa án sẽ giải quyết việc ly hôn.
+
+question: Nếu hòa giải không thành công, ly hôn có dược chấp thuận không?
+tag: 04_56_1
+answer: Tòa án giải quyết cho ly hôn nếu có căn cứ về việc vợ, chồng có hành vi bạo lực gia đình hoặc vi phạm nghiêm trọng quyền, nghĩa vụ của vợ, chồng làm cho hôn nhân lâm vào tình trạng trầm trọng, đời sống chung không thể kéo dài, mục đích của hôn nhân không đạt được.
+
+question: Trường hợp nào TÒa án giải quyết ly hôn sau khi thực hiện hòa giải không thành công?
+tag: 04_56_1
+answer: Tòa án giải quyết cho ly hôn nếu có căn cứ về việc vợ, chồng có hành vi bạo lực gia đình hoặc vi phạm nghiêm trọng quyền, nghĩa vụ của vợ, chồng làm cho hôn nhân lâm vào tình trạng trầm trọng, đời sống chung không thể kéo dài, mục đích của hôn nhân không đạt được.
+
+question: Khi ly hôn nhưng vợ tuyên bố mất tích có được ly hôn không?
+tag: 04_56_2
+answer: Trong trường hợp vợ hoặc chồng của người bị Tòa án tuyên bố mất tích yêu cầu ly hôn, Tòa án sẽ giải quyết cho ly hôn.
+
+question: Tòa án tuyên bố chồng mất tích trong thời gian ly hôn thì giải quyết như thế nào?
+tag: 04_56_2
+answer: Trong trường hợp vợ hoặc chồng của người bị Tòa án tuyên bố mất tích yêu cầu ly hôn, Tòa án sẽ giải quyết cho ly hôn.
+
+question: Yêu cầu ly hôn khi chồng mất tích được không?
+tag: 04_56_2
+answer: Trong trường hợp vợ hoặc chồng của người bị Tòa án tuyên bố mất tích yêu cầu ly hôn, Tòa án sẽ giải quyết cho ly hôn.
+
+question: Khi ly hôn do bị bạo hành thì có được chấp thuận ly hôn không?
+tag: 04_56_3
+answer: Tòa án giải quyết cho ly hôn nếu có căn cứ về việc chồng, vợ có hành vi bạo lực gia đình làm ảnh hưởng nghiêm trọng đến tính mạng, sức khỏe, tinh thần của người.
+
+question: Bị chồng bạo hành có được giải quyết ly hôn không?
+tag: 04_56_3
+answer: Tòa án giải quyết cho ly hôn nếu có căn cứ về việc chồng, vợ có hành vi bạo lực gia đình làm ảnh hưởng nghiêm trọng đến tính mạng, sức khỏe, tinh thần của người.
+
+question: Thời điểm hôn nhân kết thúc khi nào?
+tag: 04_57_1
+answer: Quan hệ hôn nhân chấm dứt kể từ ngày bản án, quyết định ly hôn của Tòa án có hiệu lực pháp luật.
+
+question: Sau khi giải quyết ly hôn Tòa án phải gửi các tài liệu gì?
+tag: 04_57_2
+answer: Tòa án đã giải quyết ly hôn phải gửi bản án, quyết định ly hôn đã có hiệu lực pháp luật cho cơ quan đã thực hiện việc đăng ký kết hôn để ghi vào sổ hộ tịch; hai bên ly hôn; cá nhân, cơ quan, tổ chức khác theo quy định của Bộ luật tố tụng dân sự và các luật khác có liên quan.
+
+question: Sau khi ly hôn, tài sản chung được chia như thế nào?
+tag: 04_59_2
+answer: Tài sản chung của vợ chồng được chia đôi, nhưng có tính đến các yếu tố như hoàn cảnh gia đình và của vợ, chồng; công sức đóng góp vào việc tạo lập, duy trì và phát triển khối tài sản chung; bảo vệ lợi ích chính đáng của mỗi bên trong sản xuất, kinh doanh và nghề nghiệp; lỗi của mỗi bên trong vi phạm quyền, nghĩa vụ của vợ chồng.
+
+question: Vợ được bao nhiêu phần từ tài sản chung sau khi ly hôn?
+tag: 04_59_2
+answer: Tài sản chung của vợ chồng được chia đôi, nhưng có tính đến các yếu tố như hoàn cảnh gia đình và của vợ, chồng; công sức đóng góp vào việc tạo lập, duy trì và phát triển khối tài sản chung; bảo vệ lợi ích chính đáng của mỗi bên trong sản xuất, kinh doanh và nghề nghiệp; lỗi của mỗi bên trong vi phạm quyền, nghĩa vụ của vợ chồng.
+
+question: Tài sản chung có vợ chồng được chia như thế nào sau khi ly hôn?
+tag: 04_59_2
+answer: Tài sản chung của vợ chồng được chia đôi, nhưng có tính đến các yếu tố như hoàn cảnh gia đình và của vợ, chồng; công sức đóng góp vào việc tạo lập, duy trì và phát triển khối tài sản chung; bảo vệ lợi ích chính đáng của mỗi bên trong sản xuất, kinh doanh và nghề nghiệp; lỗi của mỗi bên trong vi phạm quyền, nghĩa vụ của vợ chồng.
+
+question: Sau khi ly hôn, làm sao để chia tài sản chung của hai vợ chồng?
+tag: 04_59_3
+answer: Tài sản chung của vợ chồng được chia bằng hiện vật, nếu không chia được bằng hiện vật thì chia theo giá trị; bên nào nhận phần tài sản bằng hiện vật có giá trị lớn hơn phần mình được hưởng thì phải thanh toán cho bên kia phần chênh lệch.
+
+question: Cách chia tài sản chung của vợ chồng sau khi ly hôn?
+tag: 04_59_3
+answer: Tài sản chung của vợ chồng được chia bằng hiện vật, nếu không chia được bằng hiện vật thì chia theo giá trị; bên nào nhận phần tài sản bằng hiện vật có giá trị lớn hơn phần mình được hưởng thì phải thanh toán cho bên kia phần chênh lệch.
+
+question: Quyền sở hữu tài sản riêng của vợ và chồng sau khi ly hôn?
+tag: 04_59_4
+answer: Tài sản riêng của vợ, chồng sau khi ly hôn thuộc quyền sở hữu của người đó, trừ trường hợp tài sản riêng đã nhập vào tài sản chung theo quy định của Luật hôn nhân và gia đình.
+
+question: Tài sản riêng của vợ chồng sau khi ly hôn sẽ như thế nào?
+tag: 04_59_4
+answer: Tài sản riêng của vợ, chồng sau khi ly hôn thuộc quyền sở hữu của người đó, trừ trường hợp tài sản riêng đã nhập vào tài sản chung theo quy định của Luật hôn nhân và gia đình.
+
+question: Tài sản riêng đã nhập vào tài sản chung trước khi ly hôn thì được chia như thế nào?
+tag: 04_59_4
+answer: Trong trường hợp có sự sáp nhập, trộn lẫn giữa tài sản riêng với tài sản chung mà vợ, chồng có yêu cầu về chia tài sản, được thanh toán phần giá trị tài sản của mình đóng góp vào khối tài sản đó, trừ trường hợp vợ chồng có thỏa thuận khác.
+
+question: Chia tài sản như thế nào khi ly hôn tài sản riêng đã nhập vào tài sản chung?
+tag: 04_59_4
+answer: Trong trường hợp có sự sáp nhập, trộn lẫn giữa tài sản riêng với tài sản chung mà vợ, chồng có yêu cầu về chia tài sản, được thanh toán phần giá trị tài sản của mình đóng góp vào khối tài sản đó, trừ trường hợp vợ chồng có thỏa thuận khác.
+
+question: Phân chia tài sản riêng nhập vào tài sản chung sau ly hôn?
+tag: 04_59_4
+answer: Trong trường hợp có sự sáp nhập, trộn lẫn giữa tài sản riêng với tài sản chung mà vợ, chồng có yêu cầu về chia tài sản, được thanh toán phần giá trị tài sản của mình đóng góp vào khối tài sản đó, trừ trường hợp vợ chồng có thỏa thuận khác.
+
+question: Cơ quan nào hướng dẫn chia tài sản khi ly hôn?
+tag: 04_59_6
+answer: Tòa án nhân dân tối cao chủ trì phối hợp với Viện kiểm sát nhân dân tối cao và Bộ Tư pháp hướng dẫn Điều này.
+
+question: Cần hướng dẫn chia tài sản ly hôn đến cơ quan nào?
+tag: 04_59_6
+answer: Tòa án nhân dân tối cao chủ trì phối hợp với Viện kiểm sát nhân dân tối cao và Bộ Tư pháp hướng dẫn Điều này.
+
+question: Khi ly hôn có ảnh hưởng đến giao dịch tài sản với bên thứ ba không?
+tag: 04_60_1
+answer: Quyền, nghĩa vụ tài sản của vợ chồng đối với người thứ ba vẫn có hiệu lực sau khi ly hôn, trừ trường hợp vợ chồng và người thứ ba có thỏa thuận khác.
+
+question: Quyền về tài sản đối với bên thứ ba có hiệu lực sau khi ly hôn không?
+tag: 04_60_1
+answer: Quyền, nghĩa vụ tài sản của vợ chồng đối với người thứ ba vẫn có hiệu lực sau khi ly hôn, trừ trường hợp vợ chồng và người thứ ba có thỏa thuận khác.
+
+question: Tài sản của vợ chồng chung với gia đình chia như thế nào sau khi ly hôn?
+tag: 04_61_1
+answer: Nếu tài sản của vợ chồng trong khối tài sản chung của gia đình không xác định được, vợ hoặc chồng được chia một phần trong khối tài sản chung của gia đình căn cứ vào công sức đóng góp của vợ chồng vào việc tạo lập, duy trì, phát triển khối tài sản chung cũng như vào đời sống chung của gia đình. Việc chia một phần trong khối tài sản chung do vợ chồng thỏa thuận với gia đình; nếu không thỏa thuận được thì yêu cầu Tòa án giải quyết.
+
+question: Thỏa thuận chia tài sản chung với gia đình sau khi ly hôn?
+tag: 04_61_1
+answer: Khi ly hôn sẽ căn cứ theo một phần khối tài sản chung do vợ chồng thỏa thuận với gia đình
+
+question: Cách chia tài sản không xác định giữa vợ chồng và gia đình khi ly hôn?
+tag: 04_61_1
+answer: Khi ly hôn nếu tài sản của vợ chồng trong khối tài sản chung của gia đình nếu không xác định được thì vợ hoặc chồng được chia một phần trong khối tài sản của gia đình căn cứ vào công sức đóng góp vào việc tạo lập, duy trì, phát triển khối tài sản chung.
+
+question: Quyền sử dụng đất riêng của vợ, chồng sau khi ly hôn?
+tag: 04_62_1
+answer: Quyền sử dụng đất là tài sản riêng của bên nào thì khi ly hôn vẫn thuộc về bên đó.
+
+question: Chồng có thể sở hữu đất của vợ sau khi ly hôn được không?
+tag: 04_62_1
+answer: Quyền sử dụng đất là tài sản riêng của bên nào thì khi ly hôn vẫn thuộc về bên đó.
+
+question: Vợ có quyền sở hữu đất của chồng sau khi ly hôn không?
+tag: 04_62_1
+answer: Quyền sử dụng đất là tài sản riêng của bên nào thì khi ly hôn vẫn thuộc về bên đó.
+
+question: Quyền sử dụng đất nông nghiệp là của ai sau khi ly hôn?
+tag: 04_62_2
+answer: Đối với đất nông nghiệp trồng cây hàng năm, nuôi trồng thủy sản, nếu hai bên có nhu cầu và có điều kiên trực tiếp sử dụng đất thì được chia theo thỏa thuận của hai bên. Nếu không thỏa thuận được thì yêu cầu Tòa án giải quyết theo quy định.
+
+question: Phân chia quyền sử dụng đất nông nghiệp cho vợ sau khi ly hôn?
+tag: 04_62_2
+answer: Trong trường hợp chỉ có một bên có nhu cầu và có điều kiên trực tiếp sử dụng đất thì bên đó được sử dụng tiếp tục nhưng phải thanh toán cho bên kia phần giá trị quyền sử dụng đất mà họ được hưởng
+
+question: Chồng ở chung nhà của vợ sau khi ly hôn nhà là của ai?
+tag: 04_63
+answer: Nhà ở thuộc sở hữu riêng của vợ hoặc chồng đã đưa vào sử dụng chung khi ly hôn vẫn thuộc sở hữu riêng của người đó.
+
+question: Vợ ở chung nhà của chồng sau khi ly hôn có thể phân chia nhà đó không?
+tag: 04_63
+answer: Nhà ở thuộc sở hữu riêng của vợ hoặc chồng đã đưa vào sử dụng chung khi ly hôn vẫn thuộc sở hữu riêng của người đó.
+
+question: Sau khi ly hôn, vợ gặp khó khăn về chỗ ở giải quyết như thế nào?
+tag: 04_63
+answer: Sau khi ly hôn, vợ có khó khăn về chỗ ở thì được quyền lưu cư trong thời hạn 6 tháng kể từ ngày quan hệ hôn nhân chấm dứt, trừ trường hợp các bên có thỏa thuận khác
+
+question: Vợ gặp khó khăn về chỗ ở sau khi ly hôn được ở lại nhà bao lâu?
+tag: 04_63
+answer: Trong thời hạn 06 tháng kể từ ngày quan hệ hôn nhân chấm dứt, trừ khi có thỏa thuận khác giữa các bên.
+
+question: Vợ chồng có tài sản chung kinh doanh khi ly hôn phân chia như thế nào?
+tag: 04_64
+answer: Tài sản chung của vợ hoặc chồng đang thực hiện kinh doanh có quyền được nhận tài sản đó và phải thanh toán cho bên kia phần giá trị tài sản mà họ được hưởng, trừ trường hợp pháp luật kinh doanh có quy định khác
+
+question: Khi vợ mất bao lâu mới kết thúc hôn nhân?
+tag: 04_65
+answer: Hôn nhân chấm dứt kể từ thời điểm vợ chết.
+
+question: Xác định thời điểm chấm dứt hôn nhân khi vợ mất?
+tag: 04_65
+answer: Thời điểm vợ hoặc chồng chết, Trong trường hợp Tòa án tuyên bố vợ hoặc chống đã chết thì thời điểm hôn nhân chấm dứt được xác định theo ngày chết được ghi trong bản án, quyết định của Tòa án
+
+question: Quyền quản lý tài sản chung sau khi chồng mất thuộc về ai?
+tag: 04_66_1
+answer: Khi một bên vợ hoặc chồng chết, bên còn sống quản lý tài sản chung của vợ chồng, trừ khi di chúc hoặc thỏa thuận thừa kế đã chỉ định người khác quản lý di sản.
+
+question: Vợ có được quản lý tài sản chung khi chồng mất không?
+tag: 04_66_1
+answer: Khi một bên vợ hoặc chồng chết, bên còn sống quản lý tài sản chung của vợ chồng, trừ khi di chúc hoặc thỏa thuận thừa kế đã chỉ định người khác quản lý di sản.
+
+question: Chia tài sản khi chồng mất như thế nào?
+tag: 04_66_2
+answer: Khi có yêu cầu chia di sản, tài sản chung của vợ chồng được chia đôi, trừ trường hợp vợ chồng có thỏa thuận chế độ tài sản. Phần tài sản của vợ, chồng chết được chia theo quy định pháp luật về thừa kế.
+
+question: Khi vợ mất chia tài sản chung của vợ chồng như thế nào?
+tag: 04_66_2
+answer: Khi có yêu cầu chia di sản, tài sản chung của vợ chồng được chia đôi, trừ trường hợp vợ chồng có thỏa thuận chế độ tài sản. Phần tài sản của vợ, chồng chết được chia theo quy định pháp luật về thừa kế.
+
+question: Di chúc chia tài sản của vợ ảnh hưởng đến cuộc sống chồng phải làm sao?
+tag: 04_66_3
+answer: Trong trường hợp việc chia di sản ảnh hưởng nghiêm trọng đến đời sống của bên còn sống, họ có quyền yêu cầu Tòa án hạn chế phân chia di sản theo quy định của Bộ luật dân sự.
+
+question: Chồng mất di chúc chia tài sản nhưng không đủ trang trải cuộc sống của vợ làm sao?
+tag: 04_66_3
+answer: Trong trường hợp việc chia di sản ảnh hưởng nghiêm trọng đến đời sống của bên còn sống, họ có quyền yêu cầu Tòa án hạn chế phân chia di sản theo quy định của Bộ luật dân sự.
+
+question: Chồng trở về sau một thời gian tuyên bố đã chết quan hệ hôn nhân như thế nào?
+tag: 04_67_2
+answer: Quan hệ tài sản của người bị tuyên bố đã chết khi quyết định hủy bỏ tuyên bố được giải quyết như sau: a) Nếu hôn nhân được khôi phục, quan hệ tài sản được khôi phục kể từ thời điểm quyết định của Tòa án hủy bỏ tuyên bố chồng, vợ là đã chết có hiệu lực. Tài sản do vợ, chồng có được từ thời điểm quyết định hủy bỏ tuyên bố có hiệu lực đến khi quyết định hủy bỏ tuyên bố chồng, vợ đã chết có hiệu lực là tài sản riêng của người đó; b) Nếu hôn nhân không được khôi phục, tài sản có được trước khi quyết định hủy bỏ tuyên bố có hiệu lực mà chưa chia được giải quyết như chia tài sản khi ly hôn.
+
+question: Vợ tái hôn sau khi chồng bị tuyên bố chết, một thời gian chồng trở về vậy tài sản của chồng xử lý như thế nào ?
+tag: 04_67_2
+answer: Nếu hôn nhân không được khôi phục, tài sản có được trước khi quyết định hủy bỏ tuyên bố có hiệu lực mà chưa chia được giải quyết như chia tài sản khi ly hôn.
