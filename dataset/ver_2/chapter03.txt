@@ -711,7 +711,6 @@ question: Lợi nhuận từ tài sản riêng được tính như thế nào?
 tag: 3_43_2
 answer: Lợi nhuận từ tài sản riêng phát sinh trong thời kỳ hôn nhân được tính là tài sản riêng của vợ, chồng
 
-//////////new
 question: Theo quy định vợ chồng bình đẳng như thế nào?
 tag: 3_17
 answer: Vợ, chồng bình đẳng về mọi mặt trong gia đình, trong việc thực hiện các quyền, nghĩa vụ của công dân theo quy định trong Hiến pháp, Luật Hôn nhân và gia đình và các luật khác có liên quan.
