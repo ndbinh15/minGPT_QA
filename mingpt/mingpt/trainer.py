@@ -196,7 +196,7 @@ class Trainer:
                 
             # Perform optimizer update
             self.optimizer.zero_grad()
-            for param, gradient in zip(self.model.parameters(), avg_policy_gradients):
+            for param, gradient in zip(model.parameters(), avg_policy_gradients):
                 param.grad = gradient
             self.optimizer.step()
 
