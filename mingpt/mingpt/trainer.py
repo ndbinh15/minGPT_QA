@@ -180,7 +180,7 @@ class Trainer:
         self.iter_time = time.time()
         data_iter = iter(train_loader)
         self.batch = data_iter
-        self.history, self.history_embeddings = []
+        self.history, self.history_embeddings = [],[]
         while True:
 
             # fetch the next batch (x, y) and re-init iterator if needed
