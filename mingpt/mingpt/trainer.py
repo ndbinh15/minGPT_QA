@@ -11,6 +11,7 @@ from torch.nn import functional as F
 from torch.utils.data.dataloader import DataLoader
 from mingpt.utils import CfgNode as CN
 
+torch.autograd.set_detect_anomaly(True)
 class Trainer:
 
     @staticmethod
@@ -193,11 +194,11 @@ class Trainer:
             policy_gradients, self.history, self.history_embeddings = func_rl_fine_tune(self.batch, model=self.model, history=self.history, history_embeddings=self.history_embeddings)
             
             # Perform optimizer update
-            self.optimizer.zero_grad()
+            self.optimizer.zero_grad(set_to_none=True)
             for policy_gradient in policy_gradients:
                 # Check if the gradient is not None before applying it
                 if policy_gradient is not None:
-                    print("Update policy_gradient")
+                    print("Updating policy_gradient")
                     policy_gradient.backward()  # Compute gradients
             self.optimizer.step()
 
