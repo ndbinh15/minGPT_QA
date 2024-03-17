@@ -191,12 +191,12 @@ class Trainer:
                 self.batch = next(data_iter)
             self.batch = [t.to(self.device) for t in self.batch]
             
-            policy_gradients, self.history, self.history_embeddings = func_rl_fine_tune(self.batch, model=self.model, history=self.history, history_embeddings=self.history_embeddings)
+            self.policy_gradients, self.history, self.history_embeddings = func_rl_fine_tune(self.batch, model=self.model, history=self.history, history_embeddings=self.history_embeddings)
             
             # Perform optimizer update
             self.optimizer.zero_grad(set_to_none=True)
             print("Updating policy_gradient")
-            policy_gradients.backward()  # Compute gradients
+            self.policy_gradients.backward()  # Compute gradients
             self.optimizer.step()
 
             self.trigger_callbacks('on_batch_end')
