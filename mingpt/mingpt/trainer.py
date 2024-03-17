@@ -197,6 +197,7 @@ class Trainer:
             # Perform optimizer update
             self.optimizer.zero_grad(set_to_none=True)
             print("Updating policy_gradient")
+            self.policy_gradients = torch.mean(self.policy_gradients)
             self.policy_gradients.backward()  # Compute gradients
             self.optimizer.step()
 
