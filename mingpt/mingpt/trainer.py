@@ -195,11 +195,8 @@ class Trainer:
             
             # Perform optimizer update
             self.optimizer.zero_grad(set_to_none=True)
-            for policy_gradient in policy_gradients:
-                # Check if the gradient is not None before applying it
-                if policy_gradient is not None:
-                    print("Updating policy_gradient")
-                    policy_gradient.backward()  # Compute gradients
+            print("Updating policy_gradient")
+            policy_gradients.backward()  # Compute gradients
             self.optimizer.step()
 
             self.trigger_callbacks('on_batch_end')
