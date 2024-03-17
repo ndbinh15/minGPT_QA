@@ -191,13 +191,13 @@ class Trainer:
             
             policy_gradients = func_rl_fine_tune(self.batch, model=self.model)
             
-            # Update model parameters
-            avg_policy_gradients = [torch.mean(torch.stack(grads), dim=0) for grads in zip(*policy_gradients)]
-                
             # Perform optimizer update
             self.optimizer.zero_grad()
-            for param, gradient in zip(model.parameters(), avg_policy_gradients):
-                param.grad = gradient
+            for policy_gradient in policy_gradients:
+                # Check if the gradient is not None before applying it
+                if policy_gradient is not None:
+                    print("Update policy_gradient")
+                    policy_gradient.backward()  # Compute gradients
             self.optimizer.step()
 
             self.trigger_callbacks('on_batch_end')
