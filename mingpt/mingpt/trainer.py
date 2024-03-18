@@ -197,7 +197,7 @@ class Trainer:
             # Perform optimizer update
             self.optimizer.zero_grad(set_to_none=True)
             print("Updating policy_gradient")
-            self.policy_gradients.clone().backward()  # Compute gradients
+            self.policy_gradients.backward()
             torch.nn.utils.clip_grad_norm_(model.parameters(), config.grad_norm_clip)
             self.optimizer.step()
 
