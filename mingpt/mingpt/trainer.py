@@ -180,8 +180,6 @@ class Trainer:
         self.iter_time = time.time()
         data_iter = iter(train_loader)
         self.batch = data_iter
-        self.history = []
-        self.history_embeddings = []
         while True:
 
             # fetch the next batch (x, y) and re-init iterator if needed
@@ -192,7 +190,7 @@ class Trainer:
                 self.batch = next(data_iter)
             self.batch = [t.to(self.device) for t in self.batch]
             
-            self.policy_gradients, self.history, self.history_embeddings = func_rl_fine_tune(self.batch, model=self.model, history=self.history, history_embeddings=self.history_embeddings)
+            self.policy_gradients = func_rl_fine_tune(self.batch, model=self.model)
             
             # Perform optimizer update
             self.optimizer.zero_grad(set_to_none=True)
