@@ -14,3 +14,5 @@ Noted that in stage 3 & 4, you can modify path & name of model to decide which v
 2.	Run train model minGPT: section **1 & 3 & 4**.
 3.	Run train RL using minGPT model: section **1 & 5 & 6 & 7**.
 4.	Run test model: section **8 & 9 & 10**.
+
+link ggrive "DACNTT2-70": https://drive.google.com/drive/folders/1lq863ATpGtDBAK6MNZguoGCILbdIH4DS?usp=drive_link
