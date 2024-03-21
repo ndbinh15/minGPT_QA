@@ -7,9 +7,11 @@ import time
 from collections import defaultdict
 
 import torch
+from torch.nn import functional as F
 from torch.utils.data.dataloader import DataLoader
 from mingpt.utils import CfgNode as CN
 
+torch.autograd.set_detect_anomaly(True)
 class Trainer:
 
     @staticmethod
@@ -129,7 +131,6 @@ class Trainer:
         self.iter_time = time.time()
         data_iter = iter(train_loader)
         self.batch = data_iter
-        self.reward = 0
         while True:
 
             # fetch the next batch (x, y) and re-init iterator if needed
@@ -139,18 +140,62 @@ class Trainer:
                 data_iter = iter(train_loader)
                 self.batch = next(data_iter)
             self.batch = [t.to(self.device) for t in self.batch]
-            x, y = self.batch
-
-            # forward the model
-            logits, self.loss = model(x, y)
             
-            # apply RL to get reward
-            rl_reward = func_rl_fine_tune(self.batch)
-            self.loss = self.loss * rl_reward
-
-            # backprop and update the parameters
-            model.zero_grad(set_to_none=True)
+            self.loss = func_rl_fine_tune(self.batch, model=self.model)
+            
+            # Backward pass
+            self.optimizer.zero_grad(set_to_none=True)
             self.loss.backward()
+            torch.nn.utils.clip_grad_norm_(model.parameters(), config.grad_norm_clip)
+            self.optimizer.step()
+
+            self.trigger_callbacks('on_batch_end')
+            self.iter_num += 1
+            tnow = time.time()
+            self.iter_dt = tnow - self.iter_time
+            self.iter_time = tnow
+
+            # termination conditions
+            if config.max_iters is not None and self.iter_num >= config.max_iters:
+                break
+            
+    def run_rl_with_gradient(self, func_rl_fine_tune):
+        model, config = self.model, self.config
+
+        # setup the optimizer
+        self.optimizer = model.configure_optimizers(config)
+
+        # setup the dataloader
+        train_loader = DataLoader(
+            self.train_dataset,
+            sampler=torch.utils.data.RandomSampler(self.train_dataset, replacement=True, num_samples=int(1e10)),
+            shuffle=False,
+            pin_memory=True,
+            batch_size=config.batch_size,
+            num_workers=config.num_workers,
+        )
+
+        model.train()
+        self.iter_num = 0
+        self.iter_time = time.time()
+        data_iter = iter(train_loader)
+        self.batch = data_iter
+        while True:
+
+            # fetch the next batch (x, y) and re-init iterator if needed
+            try:
+                self.batch = next(data_iter)
+            except StopIteration:
+                data_iter = iter(train_loader)
+                self.batch = next(data_iter)
+            self.batch = [t.to(self.device) for t in self.batch]
+            
+            self.policy_gradients = func_rl_fine_tune(self.batch, model=self.model)
+            
+            # Perform optimizer update
+            self.optimizer.zero_grad(set_to_none=True)
+            print("Updating policy_gradient")
+            self.policy_gradients.backward()
             torch.nn.utils.clip_grad_norm_(model.parameters(), config.grad_norm_clip)
             self.optimizer.step()
 
